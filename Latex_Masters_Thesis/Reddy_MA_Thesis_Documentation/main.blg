@@ -1,0 +1,131 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+A level-1 auxiliary file: tex/deck.aux
+Reallocating 'name_of_file' (item size: 1) to 17 items.
+A level-1 auxiliary file: tex/abstract.aux
+Reallocating 'name_of_file' (item size: 1) to 21 items.
+A level-1 auxiliary file: tex/Introduction.aux
+Reallocating 'name_of_file' (item size: 1) to 17 items.
+A level-1 auxiliary file: tex/Section1.aux
+Reallocating 'name_of_file' (item size: 1) to 25 items.
+A level-1 auxiliary file: tex/IRSmodelanalysis.aux
+Reallocating 'name_of_file' (item size: 1) to 20 items.
+A level-1 auxiliary file: tex/methodology.aux
+Reallocating 'name_of_file' (item size: 1) to 31 items.
+A level-1 auxiliary file: tex/results_and_discussion.aux
+Reallocating 'name_of_file' (item size: 1) to 17 items.
+A level-1 auxiliary file: tex/acronyms.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: IEEEtran.bst
+Reallocating 'name_of_file' (item size: 1) to 24 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: bibliography/literature.bib
+I was expecting a `,' or a `}'---line 117 of file bibliography/literature.bib
+ :     
+ :     note = {Accessed: 22 Sept 2023}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 242 of file bibliography/literature.bib
+ :  
+ :  publisher={ZKG International}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 262 of file bibliography/literature.bib
+ : 
+ : %correct (done)
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 297 of file bibliography/literature.bib
+ :  
+ :  publisher={MDPI},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--I'm ignoring 5GCM's extra "publisher" field
+--line 317 of file bibliography/literature.bib
+You're missing a field name---line 389 of file bibliography/literature.bib
+ : 
+ : % url = {https://techblog.comsoc.org/2023/07/07/new-itu-report-in-progress-technical-feasibility-of-imt-in-bands-above-100-ghz-92
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--entry type for "Anjinappa" isn't style-file defined
+--line 418 of file bibliography/literature.bib
+Warning--entry type for "Diff2" isn't style-file defined
+--line 613 of file bibliography/literature.bib
+I was expecting a `,' or a `}'---line 637 of file bibliography/literature.bib
+ :  
+ :  publisher={SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty journal in ericsson6g
+Warning--empty journal in nokia6g
+Warning--empty year in nokia6g
+Warning--empty journal in Balanis
+Name 1 in "D. E. Kerr, S. A. Goudsmit, L. B. Linford, and A.M. Stone, Eds.," has a comma at the end for entry Kerr1989PropagationOS
+while executing---line 2403 of file IEEEtran.bst
+Name 2 in "D. E. Kerr, S. A. Goudsmit, L. B. Linford, and A.M. Stone, Eds.," has a comma at the end for entry Kerr1989PropagationOS
+while executing---line 2403 of file IEEEtran.bst
+Name 2 in "D. E. Kerr, S. A. Goudsmit, L. B. Linford, and A.M. Stone, Eds.," has a comma at the end for entry Kerr1989PropagationOS
+while executing---line 2403 of file IEEEtran.bst
+Warning--empty booktitle in Kerr1989PropagationOS
+Warning--empty journal in ITU_EHF
+Warning--empty booktitle in pen
+Warning--empty journal in IRS_citations2
+Warning--empty booktitle in Passiverefl
+Too many commas in name 6 of "Zhao, Yang and Zhao, Jun and Zhai, Wenchao and Sun, Sumei and Niyato, Dusit and Lam, Kwok-Yan", editor="Arai, Kohei" for entry Scope_3
+while executing---line 2403 of file IEEEtran.bst
+Too many commas in name 6 of "Zhao, Yang and Zhao, Jun and Zhai, Wenchao and Sun, Sumei and Niyato, Dusit and Lam, Kwok-Yan", editor="Arai, Kohei" for entry Scope_3
+while executing---line 2403 of file IEEEtran.bst
+Warning--empty booktitle in RCS_meta2
+
+Done.
+You've used 63 entries,
+            4087 wiz_defined-function locations,
+            1193 strings with 23353 characters,
+and the built_in function-call counts, 36808 in all, are:
+= -- 2592
+> -- 1483
+< -- 84
++ -- 727
+- -- 347
+* -- 1767
+:= -- 5756
+add.period$ -- 128
+call.type$ -- 63
+change.case$ -- 63
+chr.to.int$ -- 132
+cite$ -- 73
+duplicate$ -- 2923
+empty$ -- 3123
+format.name$ -- 399
+if$ -- 8400
+int.to.chr$ -- 0
+int.to.str$ -- 63
+missing$ -- 675
+newline$ -- 220
+num.names$ -- 63
+pop$ -- 1811
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 2756
+stack$ -- 0
+substring$ -- 361
+swap$ -- 1961
+text.length$ -- 40
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 63
+warning$ -- 10
+while$ -- 84
+width$ -- 65
+write$ -- 568
+(There were 11 error messages)

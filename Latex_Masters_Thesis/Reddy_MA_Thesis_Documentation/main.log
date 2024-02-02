@@ -1,0 +1,3406 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.12.10)  26 JAN 2024 22:20
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./main.tex
+(main.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrbook.cls
+Document Class: scrbook 2023/07/07 v3.41 KOMA-Script document class (book)
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrkbase.st
+y
+Package: scrkbase 2023/07/07 v3.41 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrbase.sty
+Package: scrbase 2023/07/07 v3.41 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.st
+y
+Package: scrlfile 2023/07/07 v3.41 KOMA-Script package (file load hooks)
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-ho
+ok.sty
+Package: scrlfile-hook 2023/07/07 v3.41 KOMA-Script package (using LaTeX hooks)
+
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.sty
+Package: scrlogo 2023/07/07 v3.41 KOMA-Script package (logo)
+))) (C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 368.
+))
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\tocbasic.st
+y
+Package: tocbasic 2023/07/07 v3.41 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip48
+\scr@dte@tocline@numbox=\box51
+)
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 135.
+Package scrbook Info: You've used standard option `11pt'.
+(scrbook)             This is correct!
+(scrbook)             Internally I'm using `fontsize=11pt'.
+(scrbook)             If you'd like to set the option with \KOMAoptions,
+(scrbook)             you'd have to use `fontsize=11pt' there
+(scrbook)             instead of `11pt', too.
+
+
+Class scrbook Warning: You've used deprecated option `halfparskip'.
+(scrbook)              Usage of this option indicates an old document
+(scrbook)              and changes compatibility level using
+(scrbook)              `parskip=half,version=first,
+(scrbook)              enabledeprecatedfontcommands' that may result
+(scrbook)              in further warnings.
+(scrbook)              If you don't want this, you should simply
+(scrbook)              replace option `halfparskip' by `parskip=half'.
+
+Class scrbook Info: Switching compatibility level to `first'.
+
+Class scrbook Warning: Switching back to an old KOMA-Script release does
+(scrbook)              not mean, that KOMA-Script is fully compatible with
+(scrbook)              the old release. If you need full compatibility
+(scrbook)              to an old KOMA-Script release, you should use that
+(scrbook)              old KOMA-Script release. However, in that case you
+(scrbook)              could also need old releases of other packages and
+(scrbook)              even of the LaTeX kernel.
+(scrbook)              You should also note, that the KOMA-Script developers
+(scrbook)              refuse support for documents using `version=first'.
+(scrbook)              We recommend to eliminate all deprecated options
+(scrbook)              and commands. We also recommend to not use option
+(scrbook)              `version', i.e., with other values than `last'.
+
+
+Class scrbook Warning: deprecated option `enabledeprecatedfontcommands'.
+(scrbook)              Note, that this option was already depreacted when
+(scrbook)              it has been defined. Support for old font commands
+(scrbook)              has been removed from KOMA-Script more than one
+(scrbook)              decade ago. It is not recommended to use them any
+(scrbook)              longer. Therefore usage of this class option also
+(scrbook)              is not recommended.
+
+Class scrbook Info: You've used standard option `openany'.
+(scrbook)           This is correct!
+(scrbook)           Internally I'm using `open=any'.
+(scrbook)           If you'd like to set the option with \KOMAoptions,
+(scrbook)           you'd have to use `open=any' there
+(scrbook)           instead of `openany', too.
+
+Class scrbook Warning: You've used deprecated option `bibtotoc'.
+(scrbook)              Usage of this option indicates an old document
+(scrbook)              and changes compatibility level using
+(scrbook)              `bibliography=totoc,version=first,
+(scrbook)              enabledeprecatedfontcommands' that may result
+(scrbook)              in further warnings.
+(scrbook)              If you don't want this, you should simply
+(scrbook)              replace option `bibtotoc' by `bibliography=totoc'.
+
+Class scrbook Info: Switching compatibility level to `first'.
+
+Class scrbook Warning: Switching back to an old KOMA-Script release does
+(scrbook)              not mean, that KOMA-Script is fully compatible with
+(scrbook)              the old release. If you need full compatibility
+(scrbook)              to an old KOMA-Script release, you should use that
+(scrbook)              old KOMA-Script release. However, in that case you
+(scrbook)              could also need old releases of other packages and
+(scrbook)              even of the LaTeX kernel.
+(scrbook)              You should also note, that the KOMA-Script developers
+(scrbook)              refuse support for documents using `version=first'.
+(scrbook)              We recommend to eliminate all deprecated options
+(scrbook)              and commands. We also recommend to not use option
+(scrbook)              `version', i.e., with other values than `last'.
+
+
+Class scrbook Warning: deprecated option `enabledeprecatedfontcommands'.
+(scrbook)              Note, that this option was already depreacted when
+(scrbook)              it has been defined. Support for old font commands
+(scrbook)              has been removed from KOMA-Script more than one
+(scrbook)              decade ago. It is not recommended to use them any
+(scrbook)              longer. Therefore usage of this class option also
+(scrbook)              is not recommended.
+
+
+Class scrbook Warning: You've used deprecated option `pointlessnumbers'.
+(scrbook)              Usage of this option indicates an old document
+(scrbook)              and changes compatibility level using
+(scrbook)              `numbers=noenddot,version=first,
+(scrbook)              enabledeprecatedfontcommands' that may result
+(scrbook)              in further warnings.
+(scrbook)              If you don't want this, you should simply
+(scrbook)              replace option `pointlessnumbers' by `numbers=noenddot'.
+
+
+Class scrbook Info: Switching compatibility level to `first'.
+
+Class scrbook Warning: Switching back to an old KOMA-Script release does
+(scrbook)              not mean, that KOMA-Script is fully compatible with
+(scrbook)              the old release. If you need full compatibility
+(scrbook)              to an old KOMA-Script release, you should use that
+(scrbook)              old KOMA-Script release. However, in that case you
+(scrbook)              could also need old releases of other packages and
+(scrbook)              even of the LaTeX kernel.
+(scrbook)              You should also note, that the KOMA-Script developers
+(scrbook)              refuse support for documents using `version=first'.
+(scrbook)              We recommend to eliminate all deprecated options
+(scrbook)              and commands. We also recommend to not use option
+(scrbook)              `version', i.e., with other values than `last'.
+
+
+Class scrbook Warning: deprecated option `enabledeprecatedfontcommands'.
+(scrbook)              Note, that this option was already depreacted when
+(scrbook)              it has been defined. Support for old font commands
+(scrbook)              has been removed from KOMA-Script more than one
+(scrbook)              decade ago. It is not recommended to use them any
+(scrbook)              longer. Therefore usage of this class option also
+(scrbook)              is not recommended.
+
+
+Class scrbook Warning: You've used deprecated option `tablecaptionabove'.
+(scrbook)              Usage of this option indicates an old document
+(scrbook)              and changes compatibility level using
+(scrbook)              `captions=tableheading,version=first,
+(scrbook)              enabledeprecatedfontcommands' that may result
+(scrbook)              in further warnings.
+(scrbook)              If you don't want this, you should simply
+(scrbook)              replace option `tablecaptionabove' by `captions=tablehea
+ding'.
+
+Class scrbook Info: Switching compatibility level to `first'.
+
+Class scrbook Warning: Switching back to an old KOMA-Script release does
+(scrbook)              not mean, that KOMA-Script is fully compatible with
+(scrbook)              the old release. If you need full compatibility
+(scrbook)              to an old KOMA-Script release, you should use that
+(scrbook)              old KOMA-Script release. However, in that case you
+(scrbook)              could also need old releases of other packages and
+(scrbook)              even of the LaTeX kernel.
+(scrbook)              You should also note, that the KOMA-Script developers
+(scrbook)              refuse support for documents using `version=first'.
+(scrbook)              We recommend to eliminate all deprecated options
+(scrbook)              and commands. We also recommend to not use option
+(scrbook)              `version', i.e., with other values than `last'.
+
+
+Class scrbook Warning: deprecated option `enabledeprecatedfontcommands'.
+(scrbook)              Note, that this option was already depreacted when
+(scrbook)              it has been defined. Support for old font commands
+(scrbook)              has been removed from KOMA-Script more than one
+(scrbook)              decade ago. It is not recommended to use them any
+(scrbook)              longer. Therefore usage of this class option also
+(scrbook)              is not recommended.
+
+Class scrbook Info: File `scrsize11pt.clo' used to setup font sizes on input li
+ne 2691.
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrsize11pt
+.clo
+File: scrsize11pt.clo 2023/07/07 v3.41 KOMA-Script font size class option (11pt
+)
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\typearea.st
+y
+Package: typearea 2023/07/07 v3.41 KOMA-Script package (type area)
+\ta@bcor=\skip49
+\ta@div=\count185
+Package typearea Info: You've used standard option `a4paper'.
+(typearea)             This is correct!
+(typearea)             Internally I'm using `paper=a4'.
+(typearea)             If you'd like to set the option with \KOMAoptions,
+(typearea)             you'd have to use `paper=a4' there
+(typearea)             instead of `a4paper', too.
+
+
+Package typearea Warning: You've used deprecated option `BCOR12mm'.
+(typearea)                Usage of this option indicates an old document
+(typearea)                and changes compatibility level using
+(typearea)                `BCOR=12mm,version=first,
+(typearea)                enabledeprecatedfontcommands' that may result
+(typearea)                in further warnings.
+(typearea)                If you don't want this, you should simply
+(typearea)                replace option `BCOR12mm' by `BCOR=12mm'.
+
+Package typearea Info: Switching compatibility level to `first'.
+
+Package typearea Warning: Switching back to an old KOMA-Script release does
+(typearea)                not mean, that KOMA-Script is fully compatible with
+(typearea)                the old release. If you need full compatibility
+(typearea)                to an old KOMA-Script release, you should use that
+(typearea)                old KOMA-Script release. However, in that case you
+(typearea)                could also need old releases of other packages and
+(typearea)                even of the LaTeX kernel.
+(typearea)                You should also note, that the KOMA-Script developers
+
+(typearea)                refuse support for documents using `version=first'.
+(typearea)                We recommend to eliminate all deprecated options
+(typearea)                and commands. We also recommend to not use option
+(typearea)                `version', i.e., with other values than `last'.
+
+
+Package typearea Warning: You've used deprecated option `DIV18'.
+(typearea)                Usage of this option indicates an old document
+(typearea)                and changes compatibility level using
+(typearea)                `DIV=18,version=first,
+(typearea)                enabledeprecatedfontcommands' that may result
+(typearea)                in further warnings.
+(typearea)                If you don't want this, you should simply
+(typearea)                replace option `DIV18' by `DIV=18'.
+
+Package typearea Info: Switching compatibility level to `first'.
+
+Package typearea Warning: Switching back to an old KOMA-Script release does
+(typearea)                not mean, that KOMA-Script is fully compatible with
+(typearea)                the old release. If you need full compatibility
+(typearea)                to an old KOMA-Script release, you should use that
+(typearea)                old KOMA-Script release. However, in that case you
+(typearea)                could also need old releases of other packages and
+(typearea)                even of the LaTeX kernel.
+(typearea)                You should also note, that the KOMA-Script developers
+
+(typearea)                refuse support for documents using `version=first'.
+(typearea)                We recommend to eliminate all deprecated options
+(typearea)                and commands. We also recommend to not use option
+(typearea)                `version', i.e., with other values than `last'.
+
+\ta@hblk=\skip50
+\ta@vblk=\skip51
+\ta@temp=\skip52
+\footheight=\skip53
+
+Package typearea Warning: Bad type area settings!
+(typearea)                The detected line width is about 20%
+(typearea)                larger than the heuristically estimated maximum
+(typearea)                limit of typographical good line width.
+(typearea)                You should e.g. decrease DIV, increase fontsize
+(typearea)                or change papersize.
+
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 18
+(typearea)             BCOR = 34.1433pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 469.47054pt
+(typearea)              DIV departure   = -20%
+(typearea)              \evensidemargin = -9.67392pt
+(typearea)              \oddsidemargin  = -6.82866pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 677.4003pt
+(typearea)              \topmargin      = -25.32294pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.6pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 1799.
+)
+\c@part=\count186
+\c@chapter=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\scr@dte@chapter@maxnumwidth=\skip54
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\chapter on input line 5990.
+\scr@dte@section@maxnumwidth=\skip55
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\section on input line 6001.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\section on input line 6001.
+\scr@dte@part@maxnumwidth=\skip56
+Class scrbook Info: using compatibility default `afterindent=true'
+(scrbook)           for `\part on input line 6010.
+\scr@dte@subsection@maxnumwidth=\skip57
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subsection on input line 6020.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subsection on input line 6020.
+\scr@dte@subsubsection@maxnumwidth=\skip58
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subsubsection on input line 6030.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subsubsection on input line 6030.
+\scr@dte@paragraph@maxnumwidth=\skip59
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\paragraph on input line 6041.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\paragraph on input line 6041.
+\scr@dte@subparagraph@maxnumwidth=\skip60
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subparagraph on input line 6051.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subparagraph on input line 6051.
+\abovecaptionskip=\skip61
+\belowcaptionskip=\skip62
+\c@pti@nb@sid@b@x=\box52
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 7242.
+\scr@dte@figure@maxnumwidth=\skip63
+\c@figure=\count193
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 7259.
+\scr@dte@table@maxnumwidth=\skip64
+\c@table=\count194
+Class scrbook Info: Using old \@makefntext due to compatibility level
+(scrbook)           less than 3.22 on input line 7417.
+Class scrbook Info: Redefining `\numberline' on input line 7430.
+\bibindent=\dimen140
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/base\glossar
+ies.sty
+Package: glossaries 2023/09/29 v4.53 (NLCT)
+ (C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+) (C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
+)
+\XKV@depth=\count195
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/mfirstuc\mfirstuc.sty
+Package: mfirstuc 2022/10/14 v2.08 (NLCT)
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count196
+)
+\@glsmfirst=\toks20
+\@glsmrest=\toks21
+) (C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/xfor\xfor.sty
+Package: xfor 2009/02/05 v1.05 (NLCT)
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-base.
+sty
+Package: datatool-base 2019/09/27 v2.32 (NLCT)
+ (C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip65
+For additional information on amsmath, use the `?' option.
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks22
+\ex@=\dimen141
+))
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen142
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count197
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count198
+\leftroot@=\count199
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count266
+\DOTSCASE@=\count267
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen143
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count268
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count269
+\dotsspace@=\muskip16
+\c@parentequation=\count270
+\dspbrk@lvl=\count271
+\tag@help=\toks23
+\row@=\count272
+\column@=\count273
+\maxfields@=\count274
+\andhelp@=\toks24
+\eqnshift@=\dimen144
+\alignsep@=\dimen145
+\tagshift@=\dimen146
+\tagwidth@=\dimen147
+\totwidth@=\dimen148
+\lineht@=\dimen149
+\@envbody=\toks25
+\multlinegap=\skip66
+\multlinetaggap=\skip67
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/substr\substr.sty
+Package: substr 2009/10/20 v1.2 Handle substrings
+\c@su@anzahl=\count275
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-fp.st
+y
+Package: datatool-fp 2019/09/27 v2.32 (NLCT)
+ (C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp.sty
+Package: fp 1995/04/02
+
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/fp\defpattern.sty
+Package: defpattern 1994/10/12
+\actioncount=\count276
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-basic.sty
+Package: fp-basic 1996/05/13
+\FP@xs=\count277
+\FP@xia=\count278
+\FP@xib=\count279
+\FP@xfa=\count280
+\FP@xfb=\count281
+\FP@rega=\count282
+\FP@regb=\count283
+\FP@regs=\count284
+\FP@times=\count285
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-addons.sty
+Package: fp-addons 1995/03/15
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-snap.sty
+Package: fp-snap 1995/04/05
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-exp.sty
+Package: fp-exp 1995/04/03
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-trigo.sty
+Package: fp-trigo 1995/04/14
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-pas.sty
+Package: fp-pas 1994/08/29
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-random.sty
+Package: fp-random 1995/02/23
+\FPseed=\count286
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-eqn.sty
+Package: fp-eqn 1995/04/03
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-upn.sty
+Package: fp-upn 1996/10/21
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-eval.sty
+Package: fp-eval 1995/04/03
+)))
+\@dtl@toks=\toks27
+\@dtl@tmpcount=\count287
+\dtl@tmplength=\skip68
+\dtl@sortresult=\count288
+\@dtl@numgrpsepcount=\count289
+\@dtl@datatype=\count290
+\dtl@codeA=\count291
+\dtl@codeB=\count292
+\@dtl@foreach@level=\count293
+)
+\gls@level=\count294
+\@gls@tmpb=\toks28
+\gls@tmplen=\skip69
+\glskeylisttok=\toks29
+\glslabeltok=\toks30
+\glsshorttok=\toks31
+\glslongtok=\toks32
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-hypernav.sty
+Package: glossary-hypernav 2023/09/29 v4.53 (NLCT)
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-list.sty
+Package: glossary-list 2023/09/29 v4.53 (NLCT)
+\glslistdottedwidth=\skip70
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-long.sty
+Package: glossary-long 2023/09/29 v4.53 (NLCT)
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip71
+\LTright=\skip72
+\LTpre=\skip73
+\LTpost=\skip74
+\LTchunksize=\count295
+\LTcapwidth=\dimen150
+\LT@head=\box55
+\LT@firsthead=\box56
+\LT@foot=\box57
+\LT@lastfoot=\box58
+\LT@gbox=\box59
+\LT@cols=\count296
+\LT@rows=\count297
+\c@LT@tables=\count298
+\c@LT@chunks=\count299
+\LT@p@ftn=\toks33
+)
+Class scrbook Info: longtable captions redefined on input line 47.
+\glsdescwidth=\skip75
+\glspagelistwidth=\skip76
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-super.sty
+Package: glossary-super 2023/09/29 v4.53 (NLCT)
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/supertabular\supertabul
+ar.sty
+Package: supertabular 2020/02/02 v4.1g the supertabular environment
+\c@tracingst=\count300
+\ST@wd=\dimen151
+\ST@rightskip=\skip77
+\ST@leftskip=\skip78
+\ST@parfillskip=\skip79
+\ST@pageleft=\dimen152
+\ST@headht=\dimen153
+\ST@tailht=\dimen154
+\ST@pagesofar=\dimen155
+\ST@pboxht=\dimen156
+\ST@lineht=\dimen157
+\ST@prevht=\dimen158
+\ST@toadd=\dimen159
+\ST@dimen=\dimen160
+\ST@pbox=\box60
+))
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-tree.sty
+Package: glossary-tree 2023/09/29 v4.53 (NLCT)
+\glstreeindent=\skip80
+))
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks34
+\inpenc@posthook=\toks35
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
+\c@tracingmulticols=\count301
+\mult@box=\box61
+\multicol@leftmargin=\dimen161
+\c@unbalance=\count302
+\c@collectmore=\count303
+\doublecol@number=\count304
+\multicoltolerance=\count305
+\multicolpretolerance=\count306
+\full@width=\dimen162
+\page@free=\dimen163
+\premulticols=\dimen164
+\postmulticols=\dimen165
+\multicolsep=\skip81
+\multicolbaselineskip=\skip82
+\partial@page=\box62
+\last@line=\box63
+\mc@boxedresult=\box64
+\maxbalancingoverflow=\dimen166
+\mult@rightbox=\box65
+\mult@grightbox=\box66
+\mult@firstbox=\box67
+\mult@gfirstbox=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\c@minrows=\count307
+\c@columnbadness=\count308
+\c@finalcolumnbadness=\count309
+\last@try=\dimen167
+\multicolovershoot=\dimen168
+\multicolundershoot=\dimen169
+\mult@nat@firstbox=\box105
+\colbreak@box=\box106
+\mc@col@check@num=\count310
+)
+
+Package typearea Warning: Bad type area settings!
+(typearea)                The detected line width is about 20%
+(typearea)                larger than the heuristically estimated maximum
+(typearea)                limit of typographical good line width.
+(typearea)                You should e.g. decrease DIV, increase fontsize
+(typearea)                or change papersize.
+
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 18
+(typearea)             BCOR = 34.1433pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 469.47054pt
+(typearea)              DIV departure   = -20%
+(typearea)              \evensidemargin = -9.67392pt
+(typearea)              \oddsidemargin  = -6.82866pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 677.4003pt
+(typearea)              \topmargin      = -25.32294pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.6pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 37.
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlayer-sc
+rpage.sty
+Package: scrlayer-scrpage 2023/07/07 v3.41 KOMA-Script package (end user interf
+ace for scrlayer)
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlayer.st
+y
+Package: scrlayer 2023/07/07 v3.41 KOMA-Script package (defining layers and pag
+e styles)
+Package scrlayer Info: patching LaTeX kernel macro \pagestyle on input line 218
+3.
+)
+Package scrlayer-scrpage Info: Makeing stand-alone element `pagehead' from
+(scrlayer-scrpage)             alias to `pageheadfoot' on input line 1106.
+) (C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/ae\ae.sty
+Package: ae 2001/02/12 1.3 Almost European Computer Modern
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+))
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2023-07-08 v7.01b Hypertext links for LaTeX
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2023-08-07 v2.53 Cross-referencing by name of section
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count311
+)
+\@linkdim=\dimen170
+\Hy@linkcounter=\count312
+\Hy@pagecounter=\count313
+ (C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2023-07-08 v7.01b Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count314
+ (C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2023-07-08 v7.01b Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4050.
+Package hyperref Info: Hyper figures OFF on input line 4167.
+Package hyperref Info: Link nesting OFF on input line 4172.
+Package hyperref Info: Hyper index ON on input line 4175.
+Package hyperref Info: Plain pages OFF on input line 4182.
+Package hyperref Info: Backreferencing OFF on input line 4187.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4434.
+\c@Hy@tempcnt=\count315
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4772.
+\XeTeXLinkMargin=\dimen171
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count316
+\Field@Width=\dimen172
+\Fld@charsize=\dimen173
+Package hyperref Info: Hyper figures OFF on input line 6051.
+Package hyperref Info: Link nesting OFF on input line 6056.
+Package hyperref Info: Hyper index ON on input line 6059.
+Package hyperref Info: backreferencing OFF on input line 6066.
+Package hyperref Info: Link coloring ON on input line 6069.
+Package hyperref Info: Link coloring with OCG OFF on input line 6076.
+Package hyperref Info: PDF/A mode OFF on input line 6081.
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count317
+\c@Item=\count318
+\c@Hfootnote=\count319
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2023-07-08 v7.01b Hyperref driver for pdfTeX
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count320
+\c@bookmark@seq@number=\count321
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip83
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen174
+\Gin@req@width=\dimen175
+)
+\c@r@tfl@t=\count322
+\rotFPtop=\skip84
+\rotFPbot=\skip85
+\rot@float@box=\box107
+\rot@mess@toks=\toks36
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
+sty
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
+y
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common.tex
+\pgfutil@everybye=\toks37
+\pgfutil@tempdima=\dimen176
+\pgfutil@tempdimb=\dimen177
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-latex.def
+\pgfutil@abb=\box108
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
+code.tex
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
+sty
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
+sty
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
+\pgfkeys@pathtoks=\toks38
+\pgfkeys@temptoks=\toks39
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+libraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks40
+))
+\pgf@x=\dimen178
+\pgf@y=\dimen179
+\pgf@xa=\dimen180
+\pgf@ya=\dimen181
+\pgf@xb=\dimen182
+\pgf@yb=\dimen183
+\pgf@xc=\dimen184
+\pgf@yc=\dimen185
+\pgf@xd=\dimen186
+\pgf@yd=\dimen187
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count323
+\c@pgf@countb=\count324
+\c@pgf@countc=\count325
+\c@pgf@countd=\count326
+\t@pgf@toka=\toks41
+\t@pgf@tokb=\toks42
+\t@pgf@tokc=\toks43
+\pgf@sys@id@count=\count327
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
+fg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+ssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count328
+\pgfsyssoftpath@bigbuffer@items=\count329
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+sprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+e.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
+code.tex)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
+r.code.tex
+\pgfmath@dimen=\dimen188
+\pgfmath@count=\count330
+\pgfmath@box=\box109
+\pgfmath@toks=\toks44
+\pgfmath@stack@operand=\toks45
+\pgfmath@stack@operation=\toks46
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.code.tex)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.basic.code.tex)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.trigonometric.code.tex)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.random.code.tex)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.comparison.code.tex)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.base.code.tex)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.round.code.tex)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.misc.code.tex)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.integerarithmetics.code.tex)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
+code.tex)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
+.code.tex
+\c@pgfmathroundto@lastzeros=\count331
+))
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
+tex)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen189
+\pgf@picmaxx=\dimen190
+\pgf@picminy=\dimen191
+\pgf@picmaxy=\dimen192
+\pgf@pathminx=\dimen193
+\pgf@pathmaxx=\dimen194
+\pgf@pathminy=\dimen195
+\pgf@pathmaxy=\dimen196
+\pgf@xx=\dimen197
+\pgf@xy=\dimen198
+\pgf@yx=\dimen199
+\pgf@yy=\dimen256
+\pgf@zx=\dimen257
+\pgf@zy=\dimen258
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen259
+\pgf@path@lasty=\dimen260
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen261
+\pgf@shorten@start@additional=\dimen262
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+escopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box110
+\pgf@hbox=\box111
+\pgf@layerbox@main=\box112
+\pgf@picture@serial@count=\count332
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+egraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen263
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen264
+\pgf@pt@y=\dimen265
+\pgf@pt@temp=\dimen266
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+equick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+earrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen267
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen268
+\pgf@sys@shading@range@num=\count333
+\pgf@shadingcount=\count334
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box113
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+elayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+erdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+shapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box114
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+plot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen269
+\pgf@nodesepend=\dimen270
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
+y
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex))
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex))
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
+code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen271
+\pgffor@skip=\dimen272
+\pgffor@stack=\toks47
+\pgffor@toks=\toks48
+))
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z\tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count335
+\pgfplotmarksize=\dimen273
+)
+\tikz@lastx=\dimen274
+\tikz@lasty=\dimen275
+\tikz@lastxsaved=\dimen276
+\tikz@lastysaved=\dimen277
+\tikz@lastmovetox=\dimen278
+\tikz@lastmovetoy=\dimen279
+\tikzleveldistance=\dimen280
+\tikzsiblingdistance=\dimen281
+\tikz@figbox=\box115
+\tikz@figbox@bg=\box116
+\tikz@tempbox=\box117
+\tikz@tempbox@bg=\box118
+\tikztreelevel=\count336
+\tikznumberofchildren=\count337
+\tikznumberofcurrentchild=\count338
+\tikz@fig@count=\count339
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+matrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count340
+\pgfmatrixcurrentcolumn=\count341
+\pgf@matrix@numberofcolumns=\count342
+)
+\tikz@expandcount=\count343
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen282
+\WF@size=\dimen283
+\c@WF@wrappedlines=\count344
+\WF@box=\box119
+\WF@everypar=\toks49
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count345
+\float@exts=\toks50
+\float@box=\box120
+\@float@everytoks=\toks51
+\@floatcapt=\box121
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/import\import.sty
+Package: import 2020/04/01  v 6.2
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/siunitx\siunitx.sty
+Package: siunitx 2023-11-14 v3.3.9 A comprehensive (SI) units package
+\l__siunitx_number_uncert_offset_int=\count346
+\l__siunitx_number_exponent_fixed_int=\count347
+\l__siunitx_number_min_decimal_int=\count348
+\l__siunitx_number_min_integer_int=\count349
+\l__siunitx_number_round_precision_int=\count350
+\l__siunitx_number_lower_threshold_int=\count351
+\l__siunitx_number_upper_threshold_int=\count352
+\l__siunitx_number_group_first_int=\count353
+\l__siunitx_number_group_size_int=\count354
+\l__siunitx_number_group_minimum_int=\count355
+\l__siunitx_angle_tmp_dim=\dimen284
+\l__siunitx_angle_marker_box=\box122
+\l__siunitx_angle_unit_box=\box123
+\l__siunitx_compound_count_int=\count356
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/translations\translatio
+ns.sty
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
+ (CN)
+)
+\l__siunitx_table_tmp_box=\box124
+\l__siunitx_table_tmp_dim=\dimen285
+\l__siunitx_table_column_width_dim=\dimen286
+\l__siunitx_table_integer_box=\box125
+\l__siunitx_table_decimal_box=\box126
+\l__siunitx_table_uncert_box=\box127
+\l__siunitx_table_before_box=\box128
+\l__siunitx_table_after_box=\box129
+\l__siunitx_table_before_dim=\dimen287
+\l__siunitx_table_carry_dim=\dimen288
+\l__siunitx_unit_tmp_int=\count357
+\l__siunitx_unit_position_int=\count358
+\l__siunitx_unit_total_int=\count359
+
+
+Package siunitx Warning: Option "binary-units" has been removed in this
+(siunitx)                release.
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen289
+\ar@mcellbox=\box130
+\extrarowheight=\dimen290
+\NC@list=\toks52
+\extratabsurround=\skip86
+\backup@length=\skip87
+\ar@cellbox=\box131
+))
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/bytefield\bytefield.sty
+Package: bytefield 2023/09/24 v2.8 Network protocol diagrams
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count360
+\calc@Bcount=\count361
+\calc@Adimen=\dimen291
+\calc@Bdimen=\dimen292
+\calc@Askip=\skip88
+\calc@Bskip=\skip89
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count362
+\calc@Cskip=\skip90
+)
+\bytefield@height=\skip91
+\bytefield@height@increment=\skip92
+\entire@bytefield@picture=\box132
+\bf@bitwidth=\skip93
+\bf@bitheight=\skip94
+\units@wide=\skip95
+\units@tall=\skip96
+\units@high=\skip97
+\header@xpos=\skip98
+\c@header@val=\count363
+\c@max@header@val=\count364
+\curly@box=\box133
+\wordlabelr@start=\skip99
+\wordlabelr@end=\skip100
+\wordlabell@start=\skip101
+\wordlabell@end=\skip102
+\total@lbox@width=\skip103
+\label@box@width=\skip104
+\label@box@height=\skip105
+\word@label@box=\box134
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip106
+\multirow@cntb=\count365
+\multirow@dima=\skip107
+\bigstrutjot=\dimen293
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen294
+\TX@old@table=\dimen295
+\TX@old@col=\dimen296
+\TX@target=\dimen297
+\TX@delta=\dimen298
+\TX@cols=\count366
+\TX@ftn=\toks53
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
+Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.s
+ty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box135
+)
+\tc@llx=\dimen299
+\tc@lly=\dimen300
+\tc@urx=\dimen301
+\tc@ury=\dimen302
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen303
+\adjbox@Height=\dimen304
+\adjbox@Depth=\dimen305
+\adjbox@Totalheight=\dimen306
+\adjbox@pwidth=\dimen307
+\adjbox@pheight=\dimen308
+\adjbox@pdepth=\dimen309
+\adjbox@ptotalheight=\dimen310
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count367
+) (C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box136
+\sift@deathcycles=\count368
+\@vwid@loff=\dimen311
+\@vwid@roff=\dimen312
+)) (C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+) (C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/rotfloat\rotfloat.sty
+Package: rotfloat 2004/01/04 v1.2 Combining float+rotating package (AS)
+Package rotfloat Info: float package v1.3 detected on input line 74.
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/tablefootnote\tablefoot
+note.sty
+Package: tablefootnote 2014/01/26 v1.1c Table foot notes (HMM)
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/xifthen\xifthen.sty
+Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/ifmtarg\ifmtarg.sty
+Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
+)))
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/footmisc\footmisc.sty
+Package: footmisc 2023/07/05 v6.0f a miscellany of footnote facilities
+\FN@temptoken=\toks54
+\footnotemargin=\dimen313
+\@outputbox@depth=\dimen314
+Package footmisc Info: Declaring symbol style bringhurst on input line 696.
+Package footmisc Info: Declaring symbol style chicago on input line 704.
+Package footmisc Info: Declaring symbol style wiley on input line 713.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 724.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 744.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 765
+.
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2022/12/19 v0.5x Insert pages of external PDF documents (AM)
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen315
+\ESO@tempdimb=\dimen316
+)
+\AM@pagewidth=\dimen317
+\AM@pageheight=\dimen318
+\AM@fboxrule=\dimen319
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
+File: pppdftex.def 2022/12/19 v0.5x Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count369
+\AM@pagebox=\box137
+\AM@global@opts=\toks55
+\AM@pagecnt=\count370
+\AM@toc@title=\toks56
+\AM@lof@heading=\toks57
+\c@AM@survey=\count371
+\AM@templatesizebox=\box138
+) (C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/cite\cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/fancyref\fancyref.sty
+Package: fancyref 1999/02/03 v0.9c Fancy cross-referencing
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/tools\varioref.sty
+Package: varioref 2022/01/09 v1.6f package for extended references (FMi)
+\c@vrcnt=\count372
+))
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/subfig\subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen320
+\captionmargin=\dimen321
+\caption@leftmargin=\dimen322
+\caption@rightmargin=\dimen323
+\caption@width=\dimen324
+\caption@indent=\dimen325
+\caption@parindent=\dimen326
+\caption@hangindent=\dimen327
+Package caption Info: KOMA-Script document class detected.
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption-koma.st
+o
+File: caption-koma.sto 2023/09/08 v2.0e Adaption of the caption package to the 
+KOMA-Script document classes (AR)
+))
+\c@caption@flags=\count373
+\c@continuedfloat=\count374
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
+Package caption Info: rotating package is loaded.
+Package caption Info: KOMA-Script scrextend package detected.
+\caption@addmargin@hsize=\dimen328
+\caption@addmargin@linewidth=\dimen329
+Package caption Info: supertabular package is loaded.
+Package caption Info: wrapfig package is loaded.
+)
+\c@KVtest=\count375
+\sf@farskip=\skip108
+\sf@captopadj=\dimen330
+\sf@capskip=\skip109
+\sf@nearskip=\skip110
+\c@subfigure=\count376
+\c@subfigure@save=\count377
+\c@lofdepth=\count378
+\c@subtable=\count379
+\c@subtable@save=\count380
+\c@lotdepth=\count381
+\sf@top=\skip111
+\sf@bottom=\skip112
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/todonotes\todonotes.sty
+Package: todonotes 2023/01/31 v1.1.6 Todonotes source and documentation.
+Package: todonotes 2023/01/31
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+\c@@todonotes@numberoftodonotes=\count382
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip113
+\enit@outerparindent=\dimen331
+\enit@toks=\toks58
+\enit@inbox=\box139
+\enit@count@id=\count383
+\enitdp@description=\count384
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/acronym\acronym.sty
+Package: acronym 2020/04/17 v1.47 Support for acronyms (Tobias Oetiker)
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/bigfoot\suffix.sty
+Package: suffix 2006/07/15 1.5a Variant command support
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
+\xs_counta=\count385
+\xs_countb=\count386
+)
+Package: xstring 2023/08/22 v1.86 String manipulations (CT)
+)
+\AC@clearlist=\toks59
+) (C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen332
+\lightrulewidth=\dimen333
+\cmidrulewidth=\dimen334
+\belowrulesep=\dimen335
+\belowbottomsep=\dimen336
+\aboverulesep=\dimen337
+\abovetopsep=\dimen338
+\cmidrulesep=\dimen339
+\cmidrulekern=\dimen340
+\defaultaddspace=\dimen341
+\@cmidla=\count387
+\@cmidlb=\count388
+\@aboverulesep=\dimen342
+\@belowrulesep=\dimen343
+\@thisruleclass=\count389
+\@lastruleclass=\count390
+\@thisrulewidth=\dimen344
+) (C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/cancel\cancel.sty
+Package: cancel 2013/04/12 v2.2 Cancel math terms
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\mathpazo.sty
+Package: mathpazo 2020/03/25 PSNFSS-v9.3 Palatino w/ Pazo Math (D.Puga, WaS) 
+\symupright=\mathgroup4
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/cleveref\cleveref.sty
+Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
+Package cleveref Info: `hyperref' support loaded on input line 2370.
+LaTeX Info: Redefining \cref on input line 2370.
+LaTeX Info: Redefining \Cref on input line 2370.
+LaTeX Info: Redefining \crefrange on input line 2370.
+LaTeX Info: Redefining \Crefrange on input line 2370.
+LaTeX Info: Redefining \cpageref on input line 2370.
+LaTeX Info: Redefining \Cpageref on input line 2370.
+LaTeX Info: Redefining \cpagerefrange on input line 2370.
+LaTeX Info: Redefining \Cpagerefrange on input line 2370.
+LaTeX Info: Redefining \labelcref on input line 2370.
+LaTeX Info: Redefining \labelcpageref on input line 2370.
+Package cleveref Info: `varioref' support loaded on input line 2605.
+Package cleveref Info: `cleveref' supersedes `varioref's \labelformatcommand on
+ input line 2605.
+LaTeX Info: Redefining \vref on input line 2605.
+LaTeX Info: Redefining \Vref on input line 2605.
+LaTeX Info: Redefining \vrefrange on input line 2605.
+LaTeX Info: Redefining \fullref on input line 2605.
+Package cleveref Info: `subfig' support loaded on input line 3164.
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2022/06/20 v1.0f Color table columns (DPC)
+\everycr=\toks60
+\minrowclearance=\skip114
+\rownum=\count391
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
+Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
+\csq@reset=\count392
+\csq@gtype=\count393
+\csq@glevel=\count394
+\csq@qlevel=\count395
+\csq@maxlvl=\count396
+\csq@tshold=\count397
+\csq@ltx@everypar=\toks61
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
+File: csquotes.def 2022-09-14 v5.2n csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
+File: csquotes.cfg 
+)) (C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\helvet.sty
+Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfplots.sty
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.rev
+ision.tex)
+Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.cod
+e.tex
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscore
+.code.tex
+\t@pgfplots@toka=\toks62
+\t@pgfplots@tokb=\toks63
+\t@pgfplots@tokc=\toks64
+\pgfplots@tmpa=\dimen345
+\c@pgfplots@coordindex=\count398
+\c@pgfplots@scanlineindex=\count399
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgfplots
+sysgeneric.code.tex))
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgfplot
+slibrary.code.tex)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompat
+ib\pgfplotsoldpgfsupp_loader.code.tex
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryfpu.code.tex)
+Package pgfplots: loading complementary utilities for your pgf version...
+\t@pgf@toka=\toks65
+\t@pgf@tokb=\toks66
+\t@pgf@tokc=\toks67
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompat
+ib\pgfplotsoldpgfsupp_pgfutil-common-lists.tex))
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+sutil.code.tex
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsliststructure.code.tex)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsliststructureext.code.tex)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsarray.code.tex
+\c@pgfplotsarray@tmp=\count400
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsmatrix.code.tex)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/numtable\pgf
+plotstableshared.code.tex
+\c@pgfplotstable@counta=\count401
+\t@pgfplotstable@a=\toks68
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsdeque.code.tex)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+sbinary.code.tex
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+sbinary.data.code.tex))
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+sutil.verb.code.tex)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgflibr
+arypgfplots.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count402
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgflibra
+rypgfplots.surfshading.pgfsys-pdftex.def)))
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+scolormap.code.tex
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+scolor.code.tex))
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsstac
+kedplots.code.tex)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsplot
+handlers.code.tex
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmesh
+plothandler.code.tex
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmesh
+plotimage.code.tex)))
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.sca
+ling.code.tex)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscoor
+dprocessing.code.tex)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.err
+orbars.code.tex)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.mar
+kers.code.tex)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotstick
+s.code.tex)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.pat
+hs.code.tex)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.code.tex
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+decorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen346
+\pgfdecoratedremainingdistance=\dimen347
+\pgfdecoratedinputsegmentcompleteddistance=\dimen348
+\pgfdecoratedinputsegmentremainingdistance=\dimen349
+\pgf@decorate@distancetomove=\dimen350
+\pgf@decorate@repeatstate=\count403
+\pgfdecorationsegmentamplitude=\dimen351
+\pgfdecorationsegmentlength=\dimen352
+)
+\tikz@lib@dec@box=\box140
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.pathmorphing.code.tex
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
+ions\pgflibrarydecorations.pathmorphing.code.tex))
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.pathreplacing.code.tex
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
+ions\pgflibrarydecorations.pathreplacing.code.tex))
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikzlib
+rarypgfplots.contourlua.code.tex)
+\pgfplots@numplots=\count404
+\pgfplots@xmin@reg=\dimen353
+\pgfplots@xmax@reg=\dimen354
+\pgfplots@ymin@reg=\dimen355
+\pgfplots@ymax@reg=\dimen356
+\pgfplots@zmin@reg=\dimen357
+\pgfplots@zmax@reg=\dimen358
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/grffile\grffile.sty
+Package: grffile 2019/11/11 v2.1 Extended file name support for graphics (legac
+y)
+Package grffile Info: This package is an empty stub for compatibility on input 
+line 40.
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+ppl on input line 11
+2.
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ppl.fd
+File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
+))
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.symbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.arrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.callouts.code.tex
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.callouts.code.tex))
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodepartlowerbox=\box141
+\pgfnodeparttwobox=\box142
+\pgfnodepartthreebox=\box143
+\pgfnodepartfourbox=\box144
+\pgfnodeparttwentybox=\box145
+\pgfnodepartnineteenbox=\box146
+\pgfnodeparteighteenbox=\box147
+\pgfnodepartseventeenbox=\box148
+\pgfnodepartsixteenbox=\box149
+\pgfnodepartfifteenbox=\box150
+\pgfnodepartfourteenbox=\box151
+\pgfnodepartthirteenbox=\box152
+\pgfnodeparttwelvebox=\box153
+\pgfnodepartelevenbox=\box154
+\pgfnodeparttenbox=\box155
+\pgfnodepartninebox=\box156
+\pgfnodeparteightbox=\box157
+\pgfnodepartsevenbox=\box158
+\pgfnodepartsixbox=\box159
+\pgfnodepartfivebox=\box160
+)))
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryarrows.code.tex
+File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\arrowsize=\dimen359
+))
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/nicematrix\nicematrix.s
+ty
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3k
+eys2e.sty
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2023-08-29 L3 programming layer (loader) 
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count405
+\l__pdf_internal_box=\box161
+))
+Package: l3keys2e 2023-08-29 LaTeX2e option processing using LaTeX3 keys
+)
+Package: nicematrix 2024/01/02 v6.26c Enhanced arrays with the help of PGF/TikZ
+
+\g__nicematrix_env_int=\count406
+\g__nicematrix_NiceMatrixBlock_int=\count407
+\g__nicematrix_notes_caption_int=\count408
+\l__nicematrix_columns_width_dim=\dimen360
+\l__nicematrix_col_width_dim=\dimen361
+\g__nicematrix_row_total_int=\count409
+\g__nicematrix_col_total_int=\count410
+\g__nicematrix_last_row_node_int=\count411
+\l__nicematrix_key_nb_rows_int=\count412
+\g__nicematrix_blocks_wd_dim=\dimen362
+\g__nicematrix_blocks_ht_dim=\dimen363
+\g__nicematrix_blocks_dp_dim=\dimen364
+\l__nicematrix_width_dim=\dimen365
+\l__nicematrix_tabular_width_dim=\dimen366
+\l__nicematrix_rule_width_dim=\dimen367
+\l__nicematrix_old_iRow_int=\count413
+\l__nicematrix_old_jCol_int=\count414
+\g__nicematrix_total_X_weight_int=\count415
+\l__nicematrix_X_columns_dim=\dimen368
+\l__nicematrix_x_initial_dim=\dimen369
+\l__nicematrix_y_initial_dim=\dimen370
+\l__nicematrix_x_final_dim=\dimen371
+\l__nicematrix_y_final_dim=\dimen372
+\l__nicematrix_tmpc_dim=\dimen373
+\l__nicematrix_tmpd_dim=\dimen374
+\g__nicematrix_width_last_col_dim=\dimen375
+\g__nicematrix_width_first_col_dim=\dimen376
+\l__nicematrix_row_min_int=\count416
+\l__nicematrix_row_max_int=\count417
+\l__nicematrix_col_min_int=\count418
+\l__nicematrix_col_max_int=\count419
+\l__nicematrix_start_int=\count420
+\l__nicematrix_end_int=\count421
+\l__nicematrix_local_start_int=\count422
+\l__nicematrix_local_end_int=\count423
+\g__nicematrix_static_num_of_col_int=\count424
+\l__nicematrix_rounded_corners_dim=\dimen377
+\l__nicematrix_tab_rounded_corners_dim=\dimen378
+\l__nicematrix_offset_dim=\dimen379
+\l__nicematrix_line_width_dim=\dimen380
+\g__nicematrix_block_box_int=\count425
+\l__nicematrix_submatrix_extra_height_dim=\dimen381
+\l__nicematrix_submatrix_left_xshift_dim=\dimen382
+\l__nicematrix_submatrix_right_xshift_dim=\dimen383
+\l__nicematrix_first_row_int=\count426
+\l__nicematrix_first_col_int=\count427
+\l__nicematrix_last_row_int=\count428
+\l__nicematrix_last_col_int=\count429
+\c@tabularnote=\count430
+\c@nicematrix_draft=\count431
+\l__nicematrix_cell_space_top_limit_dim=\dimen384
+\l__nicematrix_cell_space_bottom_limit_dim=\dimen385
+\l__nicematrix_xdots_inter_dim=\dimen386
+\l__nicematrix_xdots_shorten_start_dim=\dimen387
+\l__nicematrix_xdots_shorten_end_dim=\dimen388
+\l__nicematrix_xdots_radius_dim=\dimen389
+\l__nicematrix_notes_above_space_dim=\dimen390
+\l__nicematrix_left_margin_dim=\dimen391
+\l__nicematrix_right_margin_dim=\dimen392
+\l__nicematrix_extra_left_margin_dim=\dimen393
+\l__nicematrix_extra_right_margin_dim=\dimen394
+\c__nicematrix_max_l_dim=\dimen395
+\l__nicematrix_position_int=\count432
+\l__nicematrix_multiplicity_int=\count433
+\l__nicematrix_brace_yshift_dim=\dimen396
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+LaTeX Info: Redefining \subref on input line 189.
+Package subcaption Info: The counter `subfigure' was already defined by
+(subcaption)             \newsubfloat (offered by the subfig package) on input 
+line 238.
+Package subcaption Info: The counter `subtable' was already defined by
+(subcaption)             \newsubfloat (offered by the subfig package) on input 
+line 238.
+)
+Package translations Info: No language package found. I am going to use `englis
+h' as default language. on input line 287.
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... none found.
+
+LaTeX Warning: Unused global option(s):
+    [ngerman twoside].
+
+(main.aux (tex/deck.aux) (tex/abstract.aux) (tex/Introduction.aux)
+(tex/Section1.aux) (tex/IRSmodelanalysis.aux
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `@cref' multiply defined.
+
+) (tex/methodology.aux
+
+LaTeX Warning: Label `fig:trisuq' multiply defined.
+
+
+LaTeX Warning: Label `fig:trisuq@cref' multiply defined.
+
+) (tex/results_and_discussion.aux) (tex/acronyms.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 287.
+LaTeX Font Info:    ... okay on input line 287.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 287.
+LaTeX Font Info:    ... okay on input line 287.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 287.
+LaTeX Font Info:    ... okay on input line 287.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 287.
+LaTeX Font Info:    ... okay on input line 287.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 287.
+LaTeX Font Info:    ... okay on input line 287.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 287.
+LaTeX Font Info:    ... okay on input line 287.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 287.
+LaTeX Font Info:    ... okay on input line 287.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 287.
+LaTeX Font Info:    ... okay on input line 287.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 287.
+LaTeX Font Info:    ... okay on input line 287.
+Package scrbase Info: activating english \partname on input line 287.
+Package scrbase Info: activating english \chaptername on input line 287.
+Package scrbase Info: activating english \appendixname on input line 287.
+Package scrbase Info: activating english \figurename on input line 287.
+Package scrbase Info: activating english \tablename on input line 287.
+Package scrbase Info: activating english \contentsname on input line 287.
+Package scrbase Info: activating english \listfigurename on input line 287.
+Package scrbase Info: activating english \listtablename on input line 287.
+Package scrbase Info: activating english \bibname on input line 287.
+Package scrbase Info: activating english \indexname on input line 287.
+Package hyperref Info: Link coloring ON on input line 287.
+ (main.out) (main.out)
+\@outlinefile=\write4
+\openout4 = `main.out'.
+
+Class scrbook Info: loading recommended package `bookmark'.
+(scrbook)           Using `bookmark' together with `hyperref' is recommended,
+(scrbook)           because of handling of possible bookmark level gaps.
+(scrbook)           You can avoid loading `bookmark' with KOMA-Script option
+(scrbook)           `bookmarkpackage=false' before \begin{document} and
+(scrbook)           you can avoid this message adding:
+(scrbook)             \usepackage{bookmark}
+(scrbook)           before \begin{document} on input line 287.
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
+Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
+File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
+\BKM@id=\count434
+))
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count435
+\scratchdimen=\dimen397
+\scratchbox=\box162
+\nofMPsegments=\count436
+\nofMParguments=\count437
+\everyMPshowfont=\toks69
+\MPscratchCnt=\count438
+\MPscratchDim=\dimen398
+\MPnumerator=\count439
+\makeMPintoPDFobject=\count440
+\everyMPtoPDFconversion=\toks70
+)
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\tran
+slations-basic-dictionary-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `tra
+nslations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `english'. on input line 287.
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-nom
+etadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+
+Package todonotes Warning: The length marginparwidth is less than 2cm and will 
+most likely cause issues with the appearance of inserted todonotes. The issue c
+an be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to 
+loading the todonotes package. on input line 287.
+
+
+Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
+ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into 
+your preamble.
+ on input line 287.
+
+\c__nicematrix_shift_Ldots_last_row_dim=\dimen399
+\c__nicematrix_shift_exterior_Vdots_dim=\dimen400
+\c__nicematrix_innersep_middle_dim=\dimen401
+\c@tabularnotesi=\count441
+\enitdp@tabularnotes=\count442
+\c@tabularnotes*i=\count443
+\enitdp@tabularnotes*=\count444
+\openout2 = `tex/deck.aux'.
+
+(tex/deck.tex
+<images/logo.pdf, id=6, 339.2675pt x 55.20625pt>
+File: images/logo.pdf Graphic file (type pdf)
+<use images/logo.pdf>
+Package pdftex.def Info: images/logo.pdf  used on input line 10.
+(pdftex.def)             Requested size: 207.7052pt x 33.7979pt.
+
+Overfull \hbox (2.08043pt too wide) in paragraph at lines 9--25
+[][] []
+ []
+
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 28
+.
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1phv.fd
+File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
+)
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 46.
+LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 4
+6.
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ppl.fd
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
+46.
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlzplm.fd
+File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
+46.
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omszplm.fd
+File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
+46.
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omxzplm.fd
+File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
+)
+LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
+46.
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1zplm.fd
+File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+)
+[1
+
+
+{C:/Users/padma/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/padm
+a/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./images/logo.pdf
+>]) [2
+
+
+
+
+]
+
+pdfTeX warning: pdflatex.exe (file ./Eidesstattliche_Versicherung.pdf): PDF inc
+lusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Eidesstattliche_Versicherung.pdf, id=27, 597.55246pt x 845.07724pt>
+File: Eidesstattliche_Versicherung.pdf Graphic file (type pdf)
+<use Eidesstattliche_Versicherung.pdf>
+Package pdftex.def Info: Eidesstattliche_Versicherung.pdf  used on input line 2
+91.
+(pdftex.def)             Requested size: 597.551pt x 845.07518pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./Eidesstattliche_Versicherung.pdf): PDF inc
+lusion: found PDF version <1.7>, but at most version <1.5> allowed
+File: Eidesstattliche_Versicherung.pdf Graphic file (type pdf)
+<use Eidesstattliche_Versicherung.pdf>
+Package pdftex.def Info: Eidesstattliche_Versicherung.pdf  used on input line 2
+91.
+(pdftex.def)             Requested size: 597.551pt x 845.07518pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./Eidesstattliche_Versicherung.pdf): PDF inc
+lusion: found PDF version <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex.exe (file ./Eidesstattliche_Versicherung.pdf): PDF inc
+lusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Eidesstattliche_Versicherung.pdf, id=30, page=1, 597.55246pt x 845.07724pt>
+File: Eidesstattliche_Versicherung.pdf Graphic file (type pdf)
+<use Eidesstattliche_Versicherung.pdf, page 1>
+Package pdftex.def Info: Eidesstattliche_Versicherung.pdf , page1 used on input
+ line 291.
+(pdftex.def)             Requested size: 597.551pt x 845.07518pt.
+File: Eidesstattliche_Versicherung.pdf Graphic file (type pdf)
+<use Eidesstattliche_Versicherung.pdf, page 1>
+Package pdftex.def Info: Eidesstattliche_Versicherung.pdf , page1 used on input
+ line 291.
+(pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
+File: Eidesstattliche_Versicherung.pdf Graphic file (type pdf)
+<use Eidesstattliche_Versicherung.pdf, page 1>
+Package pdftex.def Info: Eidesstattliche_Versicherung.pdf , page1 used on input
+ line 291.
+(pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
+File: Eidesstattliche_Versicherung.pdf Graphic file (type pdf)
+<use Eidesstattliche_Versicherung.pdf, page 1>
+Package pdftex.def Info: Eidesstattliche_Versicherung.pdf , page1 used on input
+ line 291.
+(pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
+File: Eidesstattliche_Versicherung.pdf Graphic file (type pdf)
+<use Eidesstattliche_Versicherung.pdf, page 1>
+Package pdftex.def Info: Eidesstattliche_Versicherung.pdf , page1 used on input
+ line 291.
+(pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
+[3 <./Eidesstattliche_Versicherung.pdf>] [4
+
+
+]
+\openout2 = `tex/abstract.aux'.
+
+ (tex/abstract.tex
+Package acronym Info: Label `acro:mmWave' newly defined as it shall be overridd
+en
+although it is yet undefined on input line 5.
+Package acronym Info: Label `acro:SRE' newly defined as it shall be overridden
+although it is yet undefined on input line 5.
+Package acronym Info: Label `acro:EM' newly defined as it shall be overridden
+although it is yet undefined on input line 5.
+Package acronym Info: Label `acro:IRS' newly defined as it shall be overridden
+although it is yet undefined on input line 5.
+Package acronym Info: Label `acro:HELIOS' newly defined as it shall be overridd
+en
+although it is yet undefined on input line 5.
+Package acronym Info: Label `acro:RCS' newly defined as it shall be overridden
+although it is yet undefined on input line 7.
+LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 1
+1.
+
+(C:\Users\padma\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ppl.fd
+File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
+))
+[5
+
+
+] [6
+
+
+
+
+] (main.toc [7
+
+])
+\tf@toc=\write5
+\openout5 = `main.toc'.
+
+ [8]
+\openout2 = `tex/Introduction.aux'.
+
+ (tex/Introduction.tex
+chapter 1.
+
+Class scrbook Warning: \float@addtolists detected!
+(scrbook)              Implementation of \float@addtolist became
+(scrbook)              deprecated in KOMA-Script v3.01 2008/11/14 and
+(scrbook)              has been replaced by several more flexible
+(scrbook)              features of package `tocbasic`.
+(scrbook)              Since Version 3.12 support for deprecated
+(scrbook)              \float@addtolist interface has been
+(scrbook)              restricted to only some of the KOMA-Script
+(scrbook)              features and been removed from others.
+(scrbook)              Loading of package `scrhack' may help to
+(scrbook)              avoid this warning, if you are using a
+(scrbook)              a package that still implements the
+(scrbook)              deprecated \float@addtolist interface.
+
+<images/Section 1 Images/Tx_Rx.jpg, id=187, 326.529pt x 359.16pt>
+File: images/Section 1 Images/Tx_Rx.jpg Graphic file (type jpg)
+<use images/Section 1 Images/Tx_Rx.jpg>
+Package pdftex.def Info: images/Section 1 Images/Tx_Rx.jpg  used on input line 
+10.
+(pdftex.def)             Requested size: 211.2603pt x 232.37708pt.
+<images/Section 1 Images/Tx-Rx_Meta.jpg, id=188, 329.376pt x 340.983pt>
+File: images/Section 1 Images/Tx-Rx_Meta.jpg Graphic file (type jpg)
+<use images/Section 1 Images/Tx-Rx_Meta.jpg>
+Package pdftex.def Info: images/Section 1 Images/Tx-Rx_Meta.jpg  used on input 
+line 15.
+(pdftex.def)             Requested size: 211.2603pt x 218.70184pt.
+Package acronym Info: Label `acro:LOS' newly defined as it shall be overridden
+although it is yet undefined on input line 16.
+Package acronym Info: Label `acro:NLOS' newly defined as it shall be overridden
+
+although it is yet undefined on input line 16.
+Package acronym Info: Label `acro:VLOS' newly defined as it shall be overridden
+
+although it is yet undefined on input line 16.
+[1
+
+
+
+
+
+
+ <./images/Section 1 Images/Tx_Rx.jpg> <./images/Section 1 Images/Tx-Rx_Meta.jp
+g>]) [2]
+\openout2 = `tex/Section1.aux'.
+
+ (tex/Section1.tex
+chapter 2.
+Package acronym Info: Label `acro:IoT' newly defined as it shall be overridden
+although it is yet undefined on input line 4.
+Package acronym Info: Label `acro:FR1' newly defined as it shall be overridden
+although it is yet undefined on input line 6.
+<images/Section 2 Images/5Gmm.jpg, id=254, 840.13875pt x 359.54324pt>
+File: images/Section 2 Images/5Gmm.jpg Graphic file (type jpg)
+<use images/Section 2 Images/5Gmm.jpg>
+Package pdftex.def Info: images/Section 2 Images/5Gmm.jpg  used on input line 9
+.
+(pdftex.def)             Requested size: 469.47054pt x 200.91492pt.
+[3
+
+
+
+
+]
+Package acronym Info: Label `acro:3GPP' newly defined as it shall be overridden
+
+although it is yet undefined on input line 13.
+Package acronym Info: Label `acro:FR2' newly defined as it shall be overridden
+although it is yet undefined on input line 13.
+Package acronym Info: Label `acro:FR4' newly defined as it shall be overridden
+although it is yet undefined on input line 13.
+Package acronym Info: Label `acro:ITS' newly defined as it shall be overridden
+although it is yet undefined on input line 13.
+Package acronym Info: Label `acro:FR5' newly defined as it shall be overridden
+although it is yet undefined on input line 13.
+Package acronym Info: Label `acro:FR3' newly defined as it shall be overridden
+although it is yet undefined on input line 13.
+Package acronym Info: Label `acro:XR' newly defined as it shall be overridden
+although it is yet undefined on input line 17.
+ [4 <./images/Section 2 Images/5Gmm.jpg>]
+Package acronym Info: Label `acro:EHF' newly defined as it shall be overridden
+although it is yet undefined on input line 19.
+Package acronym Info: Label `acro:UHF' newly defined as it shall be overridden
+although it is yet undefined on input line 19.
+Package acronym Info: Label `acro:ITU' newly defined as it shall be overridden
+although it is yet undefined on input line 19.
+ [5] [6]
+<images/Section 2 Images/TxRx.jpg, id=360, 703.866pt x 317.988pt>
+File: images/Section 2 Images/TxRx.jpg Graphic file (type jpg)
+<use images/Section 2 Images/TxRx.jpg>
+Package pdftex.def Info: images/Section 2 Images/TxRx.jpg  used on input line 3
+5.
+(pdftex.def)             Requested size: 469.47054pt x 212.09984pt.
+
+
+Class scrbook Warning: deprecated old font command `\bf' used.
+(scrbook)              You should note, that since 1994 LaTeX2e provides a
+(scrbook)              new font selection scheme called NFSS2 with several
+(scrbook)              new, combinable font commands. New KOMA-Script classes
+(scrbook)              defined the old font commands like `\bf' only for
+(scrbook)              compatibility with LaTeX 2.09 document styles of
+(scrbook)              Script 2.0. These commands are deprecated and
+(scrbook)              undocumented at least since 2003. Since 2013,
+(scrbook)              KOMA-Script classes warned about soon removement of
+(scrbook)              these deprecated commands. Now, after two decades of
+(scrbook)              LaTeX2e, NFSS2, and KOMA-Script these commands will
+(scrbook)              not work any longer. If loading a package results in
+(scrbook)              this message you should contact the author of that
+(scrbook)              package and ask him to replace the depracted font
+(scrbook)              command `\bf', e.g., by `\normalfont \bfseries '.
+(scrbook)              Otherwise you should reconfigure or replace the
+(scrbook)              package. If you have used the old font command
+(scrbook)              `\bf' yourself you should replace it, e.g., by
+(scrbook)              `\normalfont \bfseries ' on input line 51.
+
+
+Class scrbook Warning: deprecated old font command `\bf' used.
+(scrbook)              You should note, that since 1994 LaTeX2e provides a
+(scrbook)              new font selection scheme called NFSS2 with several
+(scrbook)              new, combinable font commands. New KOMA-Script classes
+(scrbook)              defined the old font commands like `\bf' only for
+(scrbook)              compatibility with LaTeX 2.09 document styles of
+(scrbook)              Script 2.0. These commands are deprecated and
+(scrbook)              undocumented at least since 2003. Since 2013,
+(scrbook)              KOMA-Script classes warned about soon removement of
+(scrbook)              these deprecated commands. Now, after two decades of
+(scrbook)              LaTeX2e, NFSS2, and KOMA-Script these commands will
+(scrbook)              not work any longer. If loading a package results in
+(scrbook)              this message you should contact the author of that
+(scrbook)              package and ask him to replace the depracted font
+(scrbook)              command `\bf', e.g., by `\normalfont \bfseries '.
+(scrbook)              Otherwise you should reconfigure or replace the
+(scrbook)              package. If you have used the old font command
+(scrbook)              `\bf' yourself you should replace it, e.g., by
+(scrbook)              `\normalfont \bfseries ' on input line 51.
+
+
+Class scrbook Warning: deprecated old font command `\bf' used.
+(scrbook)              You should note, that since 1994 LaTeX2e provides a
+(scrbook)              new font selection scheme called NFSS2 with several
+(scrbook)              new, combinable font commands. New KOMA-Script classes
+(scrbook)              defined the old font commands like `\bf' only for
+(scrbook)              compatibility with LaTeX 2.09 document styles of
+(scrbook)              Script 2.0. These commands are deprecated and
+(scrbook)              undocumented at least since 2003. Since 2013,
+(scrbook)              KOMA-Script classes warned about soon removement of
+(scrbook)              these deprecated commands. Now, after two decades of
+(scrbook)              LaTeX2e, NFSS2, and KOMA-Script these commands will
+(scrbook)              not work any longer. If loading a package results in
+(scrbook)              this message you should contact the author of that
+(scrbook)              package and ask him to replace the depracted font
+(scrbook)              command `\bf', e.g., by `\normalfont \bfseries '.
+(scrbook)              Otherwise you should reconfigure or replace the
+(scrbook)              package. If you have used the old font command
+(scrbook)              `\bf' yourself you should replace it, e.g., by
+(scrbook)              `\normalfont \bfseries ' on input line 51.
+
+
+Class scrbook Warning: deprecated old font command `\bf' used.
+(scrbook)              You should note, that since 1994 LaTeX2e provides a
+(scrbook)              new font selection scheme called NFSS2 with several
+(scrbook)              new, combinable font commands. New KOMA-Script classes
+(scrbook)              defined the old font commands like `\bf' only for
+(scrbook)              compatibility with LaTeX 2.09 document styles of
+(scrbook)              Script 2.0. These commands are deprecated and
+(scrbook)              undocumented at least since 2003. Since 2013,
+(scrbook)              KOMA-Script classes warned about soon removement of
+(scrbook)              these deprecated commands. Now, after two decades of
+(scrbook)              LaTeX2e, NFSS2, and KOMA-Script these commands will
+(scrbook)              not work any longer. If loading a package results in
+(scrbook)              this message you should contact the author of that
+(scrbook)              package and ask him to replace the depracted font
+(scrbook)              command `\bf', e.g., by `\normalfont \bfseries '.
+(scrbook)              Otherwise you should reconfigure or replace the
+(scrbook)              package. If you have used the old font command
+(scrbook)              `\bf' yourself you should replace it, e.g., by
+(scrbook)              `\normalfont \bfseries ' on input line 51.
+
+
+Class scrbook Warning: deprecated old font command `\bf' used.
+(scrbook)              You should note, that since 1994 LaTeX2e provides a
+(scrbook)              new font selection scheme called NFSS2 with several
+(scrbook)              new, combinable font commands. New KOMA-Script classes
+(scrbook)              defined the old font commands like `\bf' only for
+(scrbook)              compatibility with LaTeX 2.09 document styles of
+(scrbook)              Script 2.0. These commands are deprecated and
+(scrbook)              undocumented at least since 2003. Since 2013,
+(scrbook)              KOMA-Script classes warned about soon removement of
+(scrbook)              these deprecated commands. Now, after two decades of
+(scrbook)              LaTeX2e, NFSS2, and KOMA-Script these commands will
+(scrbook)              not work any longer. If loading a package results in
+(scrbook)              this message you should contact the author of that
+(scrbook)              package and ask him to replace the depracted font
+(scrbook)              command `\bf', e.g., by `\normalfont \bfseries '.
+(scrbook)              Otherwise you should reconfigure or replace the
+(scrbook)              package. If you have used the old font command
+(scrbook)              `\bf' yourself you should replace it, e.g., by
+(scrbook)              `\normalfont \bfseries ' on input line 51.
+
+
+Class scrbook Warning: deprecated old font command `\bf' used.
+(scrbook)              You should note, that since 1994 LaTeX2e provides a
+(scrbook)              new font selection scheme called NFSS2 with several
+(scrbook)              new, combinable font commands. New KOMA-Script classes
+(scrbook)              defined the old font commands like `\bf' only for
+(scrbook)              compatibility with LaTeX 2.09 document styles of
+(scrbook)              Script 2.0. These commands are deprecated and
+(scrbook)              undocumented at least since 2003. Since 2013,
+(scrbook)              KOMA-Script classes warned about soon removement of
+(scrbook)              these deprecated commands. Now, after two decades of
+(scrbook)              LaTeX2e, NFSS2, and KOMA-Script these commands will
+(scrbook)              not work any longer. If loading a package results in
+(scrbook)              this message you should contact the author of that
+(scrbook)              package and ask him to replace the depracted font
+(scrbook)              command `\bf', e.g., by `\normalfont \bfseries '.
+(scrbook)              Otherwise you should reconfigure or replace the
+(scrbook)              package. If you have used the old font command
+(scrbook)              `\bf' yourself you should replace it, e.g., by
+(scrbook)              `\normalfont \bfseries ' on input line 51.
+
+Package acronym Info: Label `acro:5GCM' newly defined as it shall be overridden
+
+although it is yet undefined on input line 53.
+Package acronym Info: Label `acro:METIS' newly defined as it shall be overridde
+n
+although it is yet undefined on input line 55.
+Package acronym Info: Label `acro:MiWEBA' newly defined as it shall be overridd
+en
+although it is yet undefined on input line 59.
+Package acronym Info: Label `acro:QuaDRiGa' newly defined as it shall be overri
+dden
+although it is yet undefined on input line 61.
+[7 <./images/Section 2 Images/TxRx.jpg>] [8]
+<images/Section 2 Images/fspl.png, id=432, 621.303pt x 453.987pt>
+File: images/Section 2 Images/fspl.png Graphic file (type png)
+<use images/Section 2 Images/fspl.png>
+Package pdftex.def Info: images/Section 2 Images/fspl.png  used on input line 8
+1.
+(pdftex.def)             Requested size: 375.57785pt x 274.43784pt.
+ [9 <./images/Section 2 Images/fspl.png>]
+Package acronym Info: Label `acro:UMi' newly defined as it shall be overridden
+although it is yet undefined on input line 99.
+Package acronym Info: Label `acro:UMa' newly defined as it shall be overridden
+although it is yet undefined on input line 99.
+Package acronym Info: Label `acro:ISD' newly defined as it shall be overridden
+although it is yet undefined on input line 101.
+
+
+Class scrbook Warning: deprecated old font command `\bf' used.
+(scrbook)              You should note, that since 1994 LaTeX2e provides a
+(scrbook)              new font selection scheme called NFSS2 with several
+(scrbook)              new, combinable font commands. New KOMA-Script classes
+(scrbook)              defined the old font commands like `\bf' only for
+(scrbook)              compatibility with LaTeX 2.09 document styles of
+(scrbook)              Script 2.0. These commands are deprecated and
+(scrbook)              undocumented at least since 2003. Since 2013,
+(scrbook)              KOMA-Script classes warned about soon removement of
+(scrbook)              these deprecated commands. Now, after two decades of
+(scrbook)              LaTeX2e, NFSS2, and KOMA-Script these commands will
+(scrbook)              not work any longer. If loading a package results in
+(scrbook)              this message you should contact the author of that
+(scrbook)              package and ask him to replace the depracted font
+(scrbook)              command `\bf', e.g., by `\normalfont \bfseries '.
+(scrbook)              Otherwise you should reconfigure or replace the
+(scrbook)              package. If you have used the old font command
+(scrbook)              `\bf' yourself you should replace it, e.g., by
+(scrbook)              `\normalfont \bfseries ' on input line 108.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.112 			\begin{equation}
+                          \label{UMi_LOS}	
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `\eqno' in math mode.
+\veqno ->\@kernel@eqno 
+                       \aftergroup \ignorespaces 
+l.118 			\end{equation}
+                       
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.118 			\end{equation}
+                       
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.120 			\begin{equation}
+                         
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `\eqno' in math mode.
+\veqno ->\@kernel@eqno 
+                       \aftergroup \ignorespaces 
+l.122 			\end{equation}
+                       
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.122 			\end{equation}
+                       
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.124 			\begin{equation}
+                         
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `\eqno' in math mode.
+\veqno ->\@kernel@eqno 
+                       \aftergroup \ignorespaces 
+l.129 			\end{equation}
+                       
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.129 			\end{equation}
+                       
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing { inserted.
+<inserted text> 
+                {
+l.136 		\end{aligned}
+                     
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.141 		\begin{equation}
+                         \label{UMi_NLOS}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `\eqno' in math mode.
+\veqno ->\@kernel@eqno 
+                       \aftergroup \ignorespaces 
+l.143 		\end{equation}
+                       \\
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.143 		\end{equation}
+                       \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.146 		\begin{equation}
+                        
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `\eqno' in math mode.
+\veqno ->\@kernel@eqno 
+                       \aftergroup \ignorespaces 
+l.151 		\end{equation}
+                      
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.151 		\end{equation}
+                      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[10]
+
+Class scrbook Warning: deprecated old font command `\bf' used.
+(scrbook)              You should note, that since 1994 LaTeX2e provides a
+(scrbook)              new font selection scheme called NFSS2 with several
+(scrbook)              new, combinable font commands. New KOMA-Script classes
+(scrbook)              defined the old font commands like `\bf' only for
+(scrbook)              compatibility with LaTeX 2.09 document styles of
+(scrbook)              Script 2.0. These commands are deprecated and
+(scrbook)              undocumented at least since 2003. Since 2013,
+(scrbook)              KOMA-Script classes warned about soon removement of
+(scrbook)              these deprecated commands. Now, after two decades of
+(scrbook)              LaTeX2e, NFSS2, and KOMA-Script these commands will
+(scrbook)              not work any longer. If loading a package results in
+(scrbook)              this message you should contact the author of that
+(scrbook)              package and ask him to replace the depracted font
+(scrbook)              command `\bf', e.g., by `\normalfont \bfseries '.
+(scrbook)              Otherwise you should reconfigure or replace the
+(scrbook)              package. If you have used the old font command
+(scrbook)              `\bf' yourself you should replace it, e.g., by
+(scrbook)              `\normalfont \bfseries ' on input line 177.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.181 			\begin{equation}
+                          \label{UMa_LOS}	
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `\eqno' in math mode.
+\veqno ->\@kernel@eqno 
+                       \aftergroup \ignorespaces 
+l.187 			\end{equation}
+                       
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.187 			\end{equation}
+                       
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.189 			\begin{equation}
+                         
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `\eqno' in math mode.
+\veqno ->\@kernel@eqno 
+                       \aftergroup \ignorespaces 
+l.191 			\end{equation}
+                       
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.191 			\end{equation}
+                       
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.193 			\begin{equation}
+                         
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `\eqno' in math mode.
+\veqno ->\@kernel@eqno 
+                       \aftergroup \ignorespaces 
+l.198 			\end{equation}
+                       
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.198 			\end{equation}
+                       
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.210 			\begin{equation}
+                          \label{UMa_NLOS}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `\eqno' in math mode.
+\veqno ->\@kernel@eqno 
+                       \aftergroup \ignorespaces 
+l.212 			\end{equation}
+                        \\
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.212 			\end{equation}
+                        \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.215 			\begin{equation}
+                         
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `\eqno' in math mode.
+\veqno ->\@kernel@eqno 
+                       \aftergroup \ignorespaces 
+l.220  			\end{equation}
+                        
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.220  			\end{equation}
+                        
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[11]
+Package acronym Info: Label `acro:RIS' newly defined as it shall be overridden
+although it is yet undefined on input line 232.
+<images/Section 2 Images/Comm_link.jpg, id=512, 802.854pt x 335.727pt>
+File: images/Section 2 Images/Comm_link.jpg Graphic file (type jpg)
+<use images/Section 2 Images/Comm_link.jpg>
+Package pdftex.def Info: images/Section 2 Images/Comm_link.jpg  used on input l
+ine 235.
+(pdftex.def)             Requested size: 422.52061pt x 176.6845pt.
+ [12 <./images/Section 2 Images/Comm_link.jpg>]
+<images/Section 2 Images/IRS.png, id=526, 472.821pt x 281.196pt>
+File: images/Section 2 Images/IRS.png Graphic file (type png)
+<use images/Section 2 Images/IRS.png>
+Package pdftex.def Info: images/Section 2 Images/IRS.png  used on input line 24
+3.
+(pdftex.def)             Requested size: 469.47054pt x 279.2044pt.
+
+Underfull \vbox (badness 1968) has occurred while \output is active []
+
+ [13 <./images/Section 2 Images/IRS.png>] [14]
+<images/Section 2 Images/model_2x2.jpg, id=568, 289.737pt x 256.011pt>
+File: images/Section 2 Images/model_2x2.jpg Graphic file (type jpg)
+<use images/Section 2 Images/model_2x2.jpg>
+Package pdftex.def Info: images/Section 2 Images/model_2x2.jpg  used on input l
+ine 274.
+(pdftex.def)             Requested size: 140.84259pt x 124.44644pt.
+<images/Section 2 Images/model_4x1.jpg, id=569, 289.83281pt x 322.95656pt>
+File: images/Section 2 Images/model_4x1.jpg Graphic file (type jpg)
+<use images/Section 2 Images/model_4x1.jpg>
+Package pdftex.def Info: images/Section 2 Images/model_4x1.jpg  used on input l
+ine 279.
+(pdftex.def)             Requested size: 140.84259pt x 156.93927pt.
+<images/Section 2 Images/model_8x8.jpg, id=570, 431.36156pt x 391.4625pt>
+File: images/Section 2 Images/model_8x8.jpg Graphic file (type jpg)
+<use images/Section 2 Images/model_8x8.jpg>
+Package pdftex.def Info: images/Section 2 Images/model_8x8.jpg  used on input l
+ine 284.
+(pdftex.def)             Requested size: 140.84259pt x 127.81514pt.
+ [15 <./images/Section 2 Images/model_2x2.jpg> <./images/Section 2 Images/model
+_4x1.jpg> <./images/Section 2 Images/model_8x8.jpg>]
+<images/Section 2 Images/HELIOS_1.png, id=590, 277.035pt x 187.245pt>
+File: images/Section 2 Images/HELIOS_1.png Graphic file (type png)
+<use images/Section 2 Images/HELIOS_1.png>
+Package pdftex.def Info: images/Section 2 Images/HELIOS_1.png  used on input li
+ne 300.
+(pdftex.def)             Requested size: 140.84259pt x 95.19366pt.
+<images/Section 2 Images/HELIOS_2.png, id=591, 429.24pt x 253.821pt>
+File: images/Section 2 Images/HELIOS_2.png Graphic file (type png)
+<use images/Section 2 Images/HELIOS_2.png>
+Package pdftex.def Info: images/Section 2 Images/HELIOS_2.png  used on input li
+ne 305.
+(pdftex.def)             Requested size: 140.84259pt x 83.28479pt.
+<images/Section 2 Images/HELIOS_3.jpg, id=592, 476.763pt x 337.917pt>
+File: images/Section 2 Images/HELIOS_3.jpg Graphic file (type jpg)
+<use images/Section 2 Images/HELIOS_3.jpg>
+Package pdftex.def Info: images/Section 2 Images/HELIOS_3.jpg  used on input li
+ne 310.
+(pdftex.def)             Requested size: 150.23401pt x 106.48051pt.
+ [16 <./images/Section 2 Images/HELIOS_1.png> <./images/Section 2 Images/HELIOS
+_2.png> <./images/Section 2 Images/HELIOS_3.jpg>]
+<images/Section 2 Images/coordinate_system.png, id=611, 299.373pt x 270.684pt>
+File: images/Section 2 Images/coordinate_system.png Graphic file (type png)
+<use images/Section 2 Images/coordinate_system.png>
+Package pdftex.def Info: images/Section 2 Images/coordinate_system.png  used on
+ input line 330.
+(pdftex.def)             Requested size: 234.73526pt x 212.24785pt.
+ [17]
+
+Class scrbook Warning: deprecated old font command `\bf' used.
+(scrbook)              You should note, that since 1994 LaTeX2e provides a
+(scrbook)              new font selection scheme called NFSS2 with several
+(scrbook)              new, combinable font commands. New KOMA-Script classes
+(scrbook)              defined the old font commands like `\bf' only for
+(scrbook)              compatibility with LaTeX 2.09 document styles of
+(scrbook)              Script 2.0. These commands are deprecated and
+(scrbook)              undocumented at least since 2003. Since 2013,
+(scrbook)              KOMA-Script classes warned about soon removement of
+(scrbook)              these deprecated commands. Now, after two decades of
+(scrbook)              LaTeX2e, NFSS2, and KOMA-Script these commands will
+(scrbook)              not work any longer. If loading a package results in
+(scrbook)              this message you should contact the author of that
+(scrbook)              package and ask him to replace the depracted font
+(scrbook)              command `\bf', e.g., by `\normalfont \bfseries '.
+(scrbook)              Otherwise you should reconfigure or replace the
+(scrbook)              package. If you have used the old font command
+(scrbook)              `\bf' yourself you should replace it, e.g., by
+(scrbook)              `\normalfont \bfseries ' on input line 378.
+
+
+Class scrbook Warning: deprecated old font command `\bf' used.
+(scrbook)              You should note, that since 1994 LaTeX2e provides a
+(scrbook)              new font selection scheme called NFSS2 with several
+(scrbook)              new, combinable font commands. New KOMA-Script classes
+(scrbook)              defined the old font commands like `\bf' only for
+(scrbook)              compatibility with LaTeX 2.09 document styles of
+(scrbook)              Script 2.0. These commands are deprecated and
+(scrbook)              undocumented at least since 2003. Since 2013,
+(scrbook)              KOMA-Script classes warned about soon removement of
+(scrbook)              these deprecated commands. Now, after two decades of
+(scrbook)              LaTeX2e, NFSS2, and KOMA-Script these commands will
+(scrbook)              not work any longer. If loading a package results in
+(scrbook)              this message you should contact the author of that
+(scrbook)              package and ask him to replace the depracted font
+(scrbook)              command `\bf', e.g., by `\normalfont \bfseries '.
+(scrbook)              Otherwise you should reconfigure or replace the
+(scrbook)              package. If you have used the old font command
+(scrbook)              `\bf' yourself you should replace it, e.g., by
+(scrbook)              `\normalfont \bfseries ' on input line 378.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [18 <./images/Section 2 Images/coordinate_system.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19]
+LaTeX Font Info:    Font shape `T1/phv/b/it' in size <10.95> not available
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 460.
+<images/Section 2 Images/model1.png, id=658, 365.073pt x 278.13pt>
+File: images/Section 2 Images/model1.png Graphic file (type png)
+<use images/Section 2 Images/model1.png>
+Package pdftex.def Info: images/Section 2 Images/model1.png  used on input line
+ 474.
+(pdftex.def)             Requested size: 281.68518pt x 214.60637pt.
+
+[20 <./images/Section 2 Images/model1.png>]
+Underfull \vbox (badness 1152) has occurred while \output is active []
+
+ [21]
+<images/Section 2 Images/Model1-original.png, id=702, 423.765pt x 303.096pt>
+File: images/Section 2 Images/Model1-original.png Graphic file (type png)
+<use images/Section 2 Images/Model1-original.png>
+Package pdftex.def Info: images/Section 2 Images/Model1-original.png  used on i
+nput line 525.
+(pdftex.def)             Requested size: 375.57785pt x 268.63536pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22 <./images/Section 2 Images/Model1-original.png>]
+<images/Section 2 Images/model2.png, id=719, 442.599pt x 300.687pt>
+File: images/Section 2 Images/model2.png Graphic file (type png)
+<use images/Section 2 Images/model2.png>
+Package pdftex.def Info: images/Section 2 Images/model2.png  used on input line
+ 537.
+(pdftex.def)             Requested size: 328.62793pt x 223.25732pt.
+ [23 <./images/Section 2 Images/model2.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [24]
+Package acronym Info: Label `acro:SNR' newly defined as it shall be overridden
+although it is yet undefined on input line 604.
+<images/Section 2 Images/model3.png, id=772, 386.316pt x 292.803pt>
+File: images/Section 2 Images/model3.png Graphic file (type png)
+<use images/Section 2 Images/model3.png>
+Package pdftex.def Info: images/Section 2 Images/model3.png  used on input line
+ 618.
+(pdftex.def)             Requested size: 352.10289pt x 266.87111pt.
+
+[25 <./images/Section 2 Images/model3.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [26]
+
+Class scrbook Warning: deprecated old font command `\bf' used.
+(scrbook)              You should note, that since 1994 LaTeX2e provides a
+(scrbook)              new font selection scheme called NFSS2 with several
+(scrbook)              new, combinable font commands. New KOMA-Script classes
+(scrbook)              defined the old font commands like `\bf' only for
+(scrbook)              compatibility with LaTeX 2.09 document styles of
+(scrbook)              Script 2.0. These commands are deprecated and
+(scrbook)              undocumented at least since 2003. Since 2013,
+(scrbook)              KOMA-Script classes warned about soon removement of
+(scrbook)              these deprecated commands. Now, after two decades of
+(scrbook)              LaTeX2e, NFSS2, and KOMA-Script these commands will
+(scrbook)              not work any longer. If loading a package results in
+(scrbook)              this message you should contact the author of that
+(scrbook)              package and ask him to replace the depracted font
+(scrbook)              command `\bf', e.g., by `\normalfont \bfseries '.
+(scrbook)              Otherwise you should reconfigure or replace the
+(scrbook)              package. If you have used the old font command
+(scrbook)              `\bf' yourself you should replace it, e.g., by
+(scrbook)              `\normalfont \bfseries ' on input line 673.
+
+
+Class scrbook Warning: deprecated old font command `\bf' used.
+(scrbook)              You should note, that since 1994 LaTeX2e provides a
+(scrbook)              new font selection scheme called NFSS2 with several
+(scrbook)              new, combinable font commands. New KOMA-Script classes
+(scrbook)              defined the old font commands like `\bf' only for
+(scrbook)              compatibility with LaTeX 2.09 document styles of
+(scrbook)              Script 2.0. These commands are deprecated and
+(scrbook)              undocumented at least since 2003. Since 2013,
+(scrbook)              KOMA-Script classes warned about soon removement of
+(scrbook)              these deprecated commands. Now, after two decades of
+(scrbook)              LaTeX2e, NFSS2, and KOMA-Script these commands will
+(scrbook)              not work any longer. If loading a package results in
+(scrbook)              this message you should contact the author of that
+(scrbook)              package and ask him to replace the depracted font
+(scrbook)              command `\bf', e.g., by `\normalfont \bfseries '.
+(scrbook)              Otherwise you should reconfigure or replace the
+(scrbook)              package. If you have used the old font command
+(scrbook)              `\bf' yourself you should replace it, e.g., by
+(scrbook)              `\normalfont \bfseries ' on input line 673.
+
+[27]
+\g__nicematrix_max_cell_width_dim=\dimen402
+\c@iRow=\count445
+\c@jCol=\count446
+\l__nicematrix_cell_box=\box163
+\l__nicematrix_the_array_box=\box164
+\l__nicematrix_left_delim_dim=\dimen403
+\l__nicematrix_right_delim_dim=\dimen404
+\g__nicematrix_dp_row_zero_dim=\dimen405
+\g__nicematrix_ht_row_zero_dim=\dimen406
+\g__nicematrix_ht_row_one_dim=\dimen407
+\g__nicematrix_dp_ante_last_row_dim=\dimen408
+\g__nicematrix_ht_last_row_dim=\dimen409
+\g__nicematrix_dp_last_row_dim=\dimen410
+
+
+Class scrbook Warning: deprecated old font command `\bf' used.
+(scrbook)              You should note, that since 1994 LaTeX2e provides a
+(scrbook)              new font selection scheme called NFSS2 with several
+(scrbook)              new, combinable font commands. New KOMA-Script classes
+(scrbook)              defined the old font commands like `\bf' only for
+(scrbook)              compatibility with LaTeX 2.09 document styles of
+(scrbook)              Script 2.0. These commands are deprecated and
+(scrbook)              undocumented at least since 2003. Since 2013,
+(scrbook)              KOMA-Script classes warned about soon removement of
+(scrbook)              these deprecated commands. Now, after two decades of
+(scrbook)              LaTeX2e, NFSS2, and KOMA-Script these commands will
+(scrbook)              not work any longer. If loading a package results in
+(scrbook)              this message you should contact the author of that
+(scrbook)              package and ask him to replace the depracted font
+(scrbook)              command `\bf', e.g., by `\normalfont \bfseries '.
+(scrbook)              Otherwise you should reconfigure or replace the
+(scrbook)              package. If you have used the old font command
+(scrbook)              `\bf' yourself you should replace it, e.g., by
+(scrbook)              `\normalfont \bfseries ' on input line 706.
+
+
+Class scrbook Warning: deprecated old font command `\bf' used.
+(scrbook)              You should note, that since 1994 LaTeX2e provides a
+(scrbook)              new font selection scheme called NFSS2 with several
+(scrbook)              new, combinable font commands. New KOMA-Script classes
+(scrbook)              defined the old font commands like `\bf' only for
+(scrbook)              compatibility with LaTeX 2.09 document styles of
+(scrbook)              Script 2.0. These commands are deprecated and
+(scrbook)              undocumented at least since 2003. Since 2013,
+(scrbook)              KOMA-Script classes warned about soon removement of
+(scrbook)              these deprecated commands. Now, after two decades of
+(scrbook)              LaTeX2e, NFSS2, and KOMA-Script these commands will
+(scrbook)              not work any longer. If loading a package results in
+(scrbook)              this message you should contact the author of that
+(scrbook)              package and ask him to replace the depracted font
+(scrbook)              command `\bf', e.g., by `\normalfont \bfseries '.
+(scrbook)              Otherwise you should reconfigure or replace the
+(scrbook)              package. If you have used the old font command
+(scrbook)              `\bf' yourself you should replace it, e.g., by
+(scrbook)              `\normalfont \bfseries ' on input line 706.
+
+
+Class scrbook Warning: deprecated old font command `\bf' used.
+(scrbook)              You should note, that since 1994 LaTeX2e provides a
+(scrbook)              new font selection scheme called NFSS2 with several
+(scrbook)              new, combinable font commands. New KOMA-Script classes
+(scrbook)              defined the old font commands like `\bf' only for
+(scrbook)              compatibility with LaTeX 2.09 document styles of
+(scrbook)              Script 2.0. These commands are deprecated and
+(scrbook)              undocumented at least since 2003. Since 2013,
+(scrbook)              KOMA-Script classes warned about soon removement of
+(scrbook)              these deprecated commands. Now, after two decades of
+(scrbook)              LaTeX2e, NFSS2, and KOMA-Script these commands will
+(scrbook)              not work any longer. If loading a package results in
+(scrbook)              this message you should contact the author of that
+(scrbook)              package and ask him to replace the depracted font
+(scrbook)              command `\bf', e.g., by `\normalfont \bfseries '.
+(scrbook)              Otherwise you should reconfigure or replace the
+(scrbook)              package. If you have used the old font command
+(scrbook)              `\bf' yourself you should replace it, e.g., by
+(scrbook)              `\normalfont \bfseries ' on input line 706.
+
+
+Class scrbook Warning: deprecated old font command `\bf' used.
+(scrbook)              You should note, that since 1994 LaTeX2e provides a
+(scrbook)              new font selection scheme called NFSS2 with several
+(scrbook)              new, combinable font commands. New KOMA-Script classes
+(scrbook)              defined the old font commands like `\bf' only for
+(scrbook)              compatibility with LaTeX 2.09 document styles of
+(scrbook)              Script 2.0. These commands are deprecated and
+(scrbook)              undocumented at least since 2003. Since 2013,
+(scrbook)              KOMA-Script classes warned about soon removement of
+(scrbook)              these deprecated commands. Now, after two decades of
+(scrbook)              LaTeX2e, NFSS2, and KOMA-Script these commands will
+(scrbook)              not work any longer. If loading a package results in
+(scrbook)              this message you should contact the author of that
+(scrbook)              package and ask him to replace the depracted font
+(scrbook)              command `\bf', e.g., by `\normalfont \bfseries '.
+(scrbook)              Otherwise you should reconfigure or replace the
+(scrbook)              package. If you have used the old font command
+(scrbook)              `\bf' yourself you should replace it, e.g., by
+(scrbook)              `\normalfont \bfseries ' on input line 706.
+
+
+Class scrbook Warning: deprecated old font command `\bf' used.
+(scrbook)              You should note, that since 1994 LaTeX2e provides a
+(scrbook)              new font selection scheme called NFSS2 with several
+(scrbook)              new, combinable font commands. New KOMA-Script classes
+(scrbook)              defined the old font commands like `\bf' only for
+(scrbook)              compatibility with LaTeX 2.09 document styles of
+(scrbook)              Script 2.0. These commands are deprecated and
+(scrbook)              undocumented at least since 2003. Since 2013,
+(scrbook)              KOMA-Script classes warned about soon removement of
+(scrbook)              these deprecated commands. Now, after two decades of
+(scrbook)              LaTeX2e, NFSS2, and KOMA-Script these commands will
+(scrbook)              not work any longer. If loading a package results in
+(scrbook)              this message you should contact the author of that
+(scrbook)              package and ask him to replace the depracted font
+(scrbook)              command `\bf', e.g., by `\normalfont \bfseries '.
+(scrbook)              Otherwise you should reconfigure or replace the
+(scrbook)              package. If you have used the old font command
+(scrbook)              `\bf' yourself you should replace it, e.g., by
+(scrbook)              `\normalfont \bfseries ' on input line 706.
+
+
+Class scrbook Warning: deprecated old font command `\bf' used.
+(scrbook)              You should note, that since 1994 LaTeX2e provides a
+(scrbook)              new font selection scheme called NFSS2 with several
+(scrbook)              new, combinable font commands. New KOMA-Script classes
+(scrbook)              defined the old font commands like `\bf' only for
+(scrbook)              compatibility with LaTeX 2.09 document styles of
+(scrbook)              Script 2.0. These commands are deprecated and
+(scrbook)              undocumented at least since 2003. Since 2013,
+(scrbook)              KOMA-Script classes warned about soon removement of
+(scrbook)              these deprecated commands. Now, after two decades of
+(scrbook)              LaTeX2e, NFSS2, and KOMA-Script these commands will
+(scrbook)              not work any longer. If loading a package results in
+(scrbook)              this message you should contact the author of that
+(scrbook)              package and ask him to replace the depracted font
+(scrbook)              command `\bf', e.g., by `\normalfont \bfseries '.
+(scrbook)              Otherwise you should reconfigure or replace the
+(scrbook)              package. If you have used the old font command
+(scrbook)              `\bf' yourself you should replace it, e.g., by
+(scrbook)              `\normalfont \bfseries ' on input line 706.
+
+
+Class scrbook Warning: deprecated old font command `\bf' used.
+(scrbook)              You should note, that since 1994 LaTeX2e provides a
+(scrbook)              new font selection scheme called NFSS2 with several
+(scrbook)              new, combinable font commands. New KOMA-Script classes
+(scrbook)              defined the old font commands like `\bf' only for
+(scrbook)              compatibility with LaTeX 2.09 document styles of
+(scrbook)              Script 2.0. These commands are deprecated and
+(scrbook)              undocumented at least since 2003. Since 2013,
+(scrbook)              KOMA-Script classes warned about soon removement of
+(scrbook)              these deprecated commands. Now, after two decades of
+(scrbook)              LaTeX2e, NFSS2, and KOMA-Script these commands will
+(scrbook)              not work any longer. If loading a package results in
+(scrbook)              this message you should contact the author of that
+(scrbook)              package and ask him to replace the depracted font
+(scrbook)              command `\bf', e.g., by `\normalfont \bfseries '.
+(scrbook)              Otherwise you should reconfigure or replace the
+(scrbook)              package. If you have used the old font command
+(scrbook)              `\bf' yourself you should replace it, e.g., by
+(scrbook)              `\normalfont \bfseries ' on input line 706.
+
+
+Class scrbook Warning: deprecated old font command `\bf' used.
+(scrbook)              You should note, that since 1994 LaTeX2e provides a
+(scrbook)              new font selection scheme called NFSS2 with several
+(scrbook)              new, combinable font commands. New KOMA-Script classes
+(scrbook)              defined the old font commands like `\bf' only for
+(scrbook)              compatibility with LaTeX 2.09 document styles of
+(scrbook)              Script 2.0. These commands are deprecated and
+(scrbook)              undocumented at least since 2003. Since 2013,
+(scrbook)              KOMA-Script classes warned about soon removement of
+(scrbook)              these deprecated commands. Now, after two decades of
+(scrbook)              LaTeX2e, NFSS2, and KOMA-Script these commands will
+(scrbook)              not work any longer. If loading a package results in
+(scrbook)              this message you should contact the author of that
+(scrbook)              package and ask him to replace the depracted font
+(scrbook)              command `\bf', e.g., by `\normalfont \bfseries '.
+(scrbook)              Otherwise you should reconfigure or replace the
+(scrbook)              package. If you have used the old font command
+(scrbook)              `\bf' yourself you should replace it, e.g., by
+(scrbook)              `\normalfont \bfseries ' on input line 706.
+
+
+Overfull \hbox (0.67697pt too wide) in paragraph at lines 708--708
+ []|\T1/ppl/m/n/9 Eq. ([][]2.52[][])| 
+ []
+
+
+Overfull \hbox (0.67697pt too wide) in paragraph at lines 710--710
+ []|\T1/ppl/m/n/9 Eq. ([][]2.53[][])| 
+ []
+
+
+Overfull \hbox (0.67697pt too wide) in paragraph at lines 712--712
+ []|\T1/ppl/m/n/9 Eq. ([][]2.54[][])| 
+ []
+
+\g__nicematrix_ddots_int=\count447
+\g__nicematrix_iddots_int=\count448
+\g__nicematrix_delta_x_one_dim=\dimen411
+\g__nicematrix_delta_y_one_dim=\dimen412
+\g__nicematrix_delta_x_two_dim=\dimen413
+\g__nicematrix_delta_y_two_dim=\dimen414
+\l__nicematrix_initial_i_int=\count449
+\l__nicematrix_initial_j_int=\count450
+\l__nicematrix_final_i_int=\count451
+\l__nicematrix_final_j_int=\count452
+
+Overfull \hbox (10.19276pt too wide) in paragraph at lines 702--714
+[]$[][][][][]$[][][][][][][][][][][][] 
+ []
+
+<images/Section 2 Images/3models_compare.png, id=851, 473.04pt x 393.543pt>
+File: images/Section 2 Images/3models_compare.png Graphic file (type png)
+<use images/Section 2 Images/3models_compare.png>
+Package pdftex.def Info: images/Section 2 Images/3models_compare.png  used on i
+nput line 719.
+(pdftex.def)             Requested size: 361.49431pt x 300.74715pt.
+[28 <./images/Section 2 Images/3models_compare.png>]
+<images/Section 2 Images/model1_pattern.png, id=872, 339.888pt x 258.201pt>
+File: images/Section 2 Images/model1_pattern.png Graphic file (type png)
+<use images/Section 2 Images/model1_pattern.png>
+Package pdftex.def Info: images/Section 2 Images/model1_pattern.png  used on in
+put line 727.
+(pdftex.def)             Requested size: 328.62793pt x 249.65488pt.
+ [29 <./images/Section 2 Images/model1_pattern.png>]) [30]
+\openout2 = `tex/IRSmodelanalysis.aux'.
+
+ (tex/IRSmodelanalysis.tex
+chapter 3.
+[31
+
+
+
+
+]
+<images/Section 3 Images/Ansys_workflow.png, id=910, 688.755pt x 344.049pt>
+File: images/Section 3 Images/Ansys_workflow.png Graphic file (type png)
+<use images/Section 3 Images/Ansys_workflow.png>
+Package pdftex.def Info: images/Section 3 Images/Ansys_workflow.png  used on in
+put line 12.
+(pdftex.def)             Requested size: 469.47054pt x 234.51193pt.
+ [32 <./images/Section 3 Images/Ansys_workflow.png>]
+<images/Section 3 Images/HELIOS model.jpg, id=930, 607.944pt x 330.69pt>
+File: images/Section 3 Images/HELIOS model.jpg Graphic file (type jpg)
+<use images/Section 3 Images/HELIOS model.jpg>
+Package pdftex.def Info: images/Section 3 Images/HELIOS model.jpg  used on inpu
+t line 37.
+(pdftex.def)             Requested size: 328.62793pt x 178.75662pt.
+ [33]
+<images/Section 3 Images/Saturation.png, id=946, 793.218pt x 326.31pt>
+File: images/Section 3 Images/Saturation.png Graphic file (type png)
+<use images/Section 3 Images/Saturation.png>
+Package pdftex.def Info: images/Section 3 Images/Saturation.png  used on input 
+line 53.
+(pdftex.def)             Requested size: 436.60416pt x 179.61046pt.
+<images/Section 3 Images/Reflector_length_2.png, id=947, 519.906pt x 384.564pt>
+
+File: images/Section 3 Images/Reflector_length_2.png Graphic file (type png)
+<use images/Section 3 Images/Reflector_length_2.png>
+Package pdftex.def Info: images/Section 3 Images/Reflector_length_2.png  used o
+n input line 65.
+(pdftex.def)             Requested size: 234.73526pt x 173.63312pt.
+<images/Section 3 Images/Reflector_length.png, id=948, 411.282pt x 334.632pt>
+File: images/Section 3 Images/Reflector_length.png Graphic file (type png)
+<use images/Section 3 Images/Reflector_length.png>
+Package pdftex.def Info: images/Section 3 Images/Reflector_length.png  used on 
+input line 70.
+(pdftex.def)             Requested size: 211.2603pt x 171.89063pt.
+ [34 <./images/Section 3 Images/HELIOS model.jpg> <./images/Section 3 Images/Sa
+turation.png>]
+[35 <./images/Section 3 Images/Reflector_length_2.png> <./images/Section 3 Imag
+es/Reflector_length.png>]
+<images/Section 3 Images/Material1.png, id=975, 542.025pt x 386.316pt>
+File: images/Section 3 Images/Material1.png Graphic file (type png)
+<use images/Section 3 Images/Material1.png>
+Package pdftex.def Info: images/Section 3 Images/Material1.png  used on input l
+ine 123.
+(pdftex.def)             Requested size: 234.73526pt x 167.30336pt.
+<images/Section 3 Images/conductivity2.png, id=976, 439.314pt x 341.64pt>
+File: images/Section 3 Images/conductivity2.png Graphic file (type png)
+<use images/Section 3 Images/conductivity2.png>
+Package pdftex.def Info: images/Section 3 Images/conductivity2.png  used on inp
+ut line 128.
+(pdftex.def)             Requested size: 211.2603pt x 164.28769pt.
+ [36 <./images/Section 3 Images/Material1.png> <./images/Section 3 Images/condu
+ctivity2.png>]
+Package acronym Info: Label `acro:JCAS' newly defined as it shall be overridden
+
+although it is yet undefined on input line 164.
+ [37] [38] [39]
+<images/Section 3 Images/HELIOS_footprint.jpg, id=1062, 451.578pt x 343.392pt>
+File: images/Section 3 Images/HELIOS_footprint.jpg Graphic file (type jpg)
+<use images/Section 3 Images/HELIOS_footprint.jpg>
+Package pdftex.def Info: images/Section 3 Images/HELIOS_footprint.jpg  used on 
+input line 220.
+(pdftex.def)             Requested size: 234.73526pt x 178.50198pt.
+
+Overfull \hbox (10.16403pt too wide) in paragraph at lines 228--229
+[]$\OML/zplm/m/it/10.95 ^^[[] \OT1/zplm/m/n/10.95 = \OT1/ppl/m/n/10.95 4 \OMS/z
+plm/m/n/10.95 ^^A \OML/zplm/m/it/10.95 ^^Y \OMS/zplm/m/n/10.95 ^^A \OT1/zplm/m/
+n/10.95 ^^@ \OMS/zplm/m/n/10.95 ^^A [][] []$ 
+ []
+
+[40 <./images/Section 3 Images/HELIOS_footprint.jpg>]
+<images/Section 3 Images/a_b_sweep.png, id=1076, 445.008pt x 358.284pt>
+File: images/Section 3 Images/a_b_sweep.png Graphic file (type png)
+<use images/Section 3 Images/a_b_sweep.png>
+Package pdftex.def Info: images/Section 3 Images/a_b_sweep.png  used on input l
+ine 244.
+(pdftex.def)             Requested size: 328.62793pt x 264.58476pt.
+<images/Section 3 Images/comparison_1D_a.png, id=1078, 424.203pt x 335.727pt>
+File: images/Section 3 Images/comparison_1D_a.png Graphic file (type png)
+<use images/Section 3 Images/comparison_1D_a.png>
+Package pdftex.def Info: images/Section 3 Images/comparison_1D_a.png  used on i
+nput line 255.
+(pdftex.def)             Requested size: 215.9596pt x 170.92137pt.
+<images/Section 3 Images/comparison_1D_b.png, id=1079, 412.815pt x 336.603pt>
+File: images/Section 3 Images/comparison_1D_b.png Graphic file (type png)
+<use images/Section 3 Images/comparison_1D_b.png>
+Package pdftex.def Info: images/Section 3 Images/comparison_1D_b.png  used on i
+nput line 260.
+(pdftex.def)             Requested size: 211.2603pt x 172.2559pt.
+ [41 <./images/Section 3 Images/a_b_sweep.png>] [42 <./images/Section 3 Images/
+comparison_1D_a.png> <./images/Section 3 Images/comparison_1D_b.png>]
+<images/Section 3 Images/Heatmap_1D.png, id=1104, 629.625pt x 303.096pt>
+File: images/Section 3 Images/Heatmap_1D.png Graphic file (type png)
+<use images/Section 3 Images/Heatmap_1D.png>
+Package pdftex.def Info: images/Section 3 Images/Heatmap_1D.png  used on input 
+line 272.
+(pdftex.def)             Requested size: 384.96927pt x 185.32764pt.
+File: images/Section 3 Images/Heatmap_1D.png Graphic file (type png)
+<use images/Section 3 Images/Heatmap_1D.png>
+Package pdftex.def Info: images/Section 3 Images/Heatmap_1D.png  used on input 
+line 279.
+(pdftex.def)             Requested size: 384.96927pt x 185.32764pt.
+ [43 <./images/Section 3 Images/Heatmap_1D.png>]
+
+LaTeX Font Warning: Command \footnotesize invalid in math mode on input line 29
+4.
+
+
+Overfull \hbox (12.34038pt too wide) detected at line 301
+[][][][][]
+ []
+
+LaTeX Font Info:    Calculating math sizes for size <> on input line 301.
+[44]
+<images/Section 3 Images/Array_max.png, id=1130, 629.844pt x 281.415pt>
+File: images/Section 3 Images/Array_max.png Graphic file (type png)
+<use images/Section 3 Images/Array_max.png>
+Package pdftex.def Info: images/Section 3 Images/Array_max.png  used on input l
+ine 310.
+(pdftex.def)             Requested size: 469.47054pt x 209.7682pt.
+<images/Section 3 Images/Heatmap_arraz.png, id=1131, 658.971pt x 410.844pt>
+File: images/Section 3 Images/Heatmap_arraz.png Graphic file (type png)
+<use images/Section 3 Images/Heatmap_arraz.png>
+Package pdftex.def Info: images/Section 3 Images/Heatmap_arraz.png  used on inp
+ut line 316.
+(pdftex.def)             Requested size: 469.47054pt x 292.69177pt.
+ [45 <./images/Section 3 Images/Array_max.png>]
+<images/Section 3 Images/ECDF_HELIOS_array.png, id=1143, 358.722pt x 278.349pt>
+
+File: images/Section 3 Images/ECDF_HELIOS_array.png Graphic file (type png)
+<use images/Section 3 Images/ECDF_HELIOS_array.png>
+Package pdftex.def Info: images/Section 3 Images/ECDF_HELIOS_array.png  used on
+ input line 326.
+(pdftex.def)             Requested size: 328.62793pt x 254.99687pt.
+ [46 <./images/Section 3 Images/Heatmap_arraz.png>]
+<images/Section 3 Images/Casestudy_beamwidth.png, id=1157, 860.67pt x 480.705pt
+>
+File: images/Section 3 Images/Casestudy_beamwidth.png Graphic file (type png)
+<use images/Section 3 Images/Casestudy_beamwidth.png>
+Package pdftex.def Info: images/Section 3 Images/Casestudy_beamwidth.png  used 
+on input line 338.
+(pdftex.def)             Requested size: 469.47054pt x 262.21008pt.
+ [47 <./images/Section 3 Images/ECDF_HELIOS_array.png>]
+<images/Section 3 Images/Casestudy_flatplate.png, id=1171, 916.296pt x 484.428p
+t>
+File: images/Section 3 Images/Casestudy_flatplate.png Graphic file (type png)
+<use images/Section 3 Images/Casestudy_flatplate.png>
+Package pdftex.def Info: images/Section 3 Images/Casestudy_flatplate.png  used 
+on input line 349.
+(pdftex.def)             Requested size: 469.47054pt x 248.20073pt.
+<images/Section 3 Images/Casestudy_flatplate_violin.png, id=1172, 915.42pt x 37
+9.965pt>
+File: images/Section 3 Images/Casestudy_flatplate_violin.png Graphic file (type
+ png)
+<use images/Section 3 Images/Casestudy_flatplate_violin.png>
+Package pdftex.def Info: images/Section 3 Images/Casestudy_flatplate_violin.png
+  used on input line 355.
+(pdftex.def)             Requested size: 469.47054pt x 194.86377pt.
+
+[48 <./images/Section 3 Images/Casestudy_beamwidth.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [49 <./images/Section 3 Images/Casestudy_flatplate.png> <./images/Section 3 Im
+ages/Casestudy_flatplate_violin.png>]
+<images/Section 4 Images/Casestudy_orthogonal_BCF.png, id=1

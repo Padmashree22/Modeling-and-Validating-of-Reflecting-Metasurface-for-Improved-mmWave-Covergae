@@ -1,0 +1,22 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces \ac {mmWave} channel modeling efforts by different organizations with their operating frequencies and the kind of propagation models that they support.}}{8}{table.caption.27}%
+\contentsline {table}{\numberline {2.2}{\ignorespaces UMi path loss model for LOS and NLOS conditions with their applicability parameters that can be deemed to be suitable for many scenarios as defined by 3GPP \cite {ETSI}.}}{11}{table.caption.38}%
+\contentsline {table}{\numberline {2.3}{\ignorespaces UMa path loss model for LOS and NLOS conditions with their applicability parameters that can be deemed to be suitable for many scenarios as defined by 3GPP \cite {ETSI}.}}{12}{table.caption.41}%
+\contentsline {table}{\numberline {2.4}{\ignorespaces Comprehensive standardization of parameters: Units and abbreviations for metasurface channel modeling across the entire thesis.}}{19}{table.caption.54}%
+\contentsline {table}{\numberline {2.5}{\ignorespaces Gains at the reflector from the three IRS models \cite {8936989,ntontin2021optimal,tang2020wireless} which are derived from the respective receive power equations.}}{27}{table.caption.66}%
+\contentsline {table}{\numberline {2.6}{\ignorespaces Characterization of IRS gain models \cite {8936989,ntontin2021optimal,tang2020wireless} with their parameter dependencies at \SI {28}{\giga \hertz } frequency. The green and red boxes depict the similarities and dissimilarities between the three IRS models, respectively.}}{28}{table.caption.67}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Properties of different materials in terms of conductivity and relative permittivity.}}{36}{table.caption.74}%
+\contentsline {table}{\numberline {3.2}{\ignorespaces Standard RCS values which are commonly observed \cite {RCS_meta, RCS_meta2}.}}{38}{table.caption.76}%
+\contentsline {table}{\numberline {3.3}{\ignorespaces Comparing the existing equation for flat plate, cf. \Cref {Eq:RCS_flatplate_dependency} which is used for the adaptation of our RCS equation for the HELIOS analytical module, cf. \Cref {Eq:RCS_HELIOS_dependency}, focusing on the changes implemented. }}{39}{table.caption.78}%
+\contentsline {table}{\numberline {3.4}{\ignorespaces Shadowed region for the first reflector along the row and column for cases in \Cref {fig:Shadow region1}. }}{55}{table.caption.101}%
+\contentsline {table}{\numberline {3.5}{\ignorespaces Shadowed region for the second reflector along the row and column for cases in \Cref {fig:Shadow region1}.}}{56}{table.caption.102}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Mean computing time for a HELIOS module $(1 \times 1)$ with different angular resolutions of the bistatic RCS.}}{60}{table.caption.106}%
+\contentsline {table}{\numberline {4.2}{\ignorespaces Mean computing time for different angular resolutions depicting variations for varying reflector sizes for a HELIOS module. We observe that the analytical model's computing time is independent to the reflector dimensions whereas the EM simulations scale poorly, thus demonstrating infeasibility for large reflecting surfaces size as expected for 6G, cf. case study in \Cref {Urban Case Study}.}}{62}{table.caption.109}%
+\contentsline {table}{\numberline {4.3}{\ignorespaces Mean computing time for various HELIOS reflector array sizes (\num {1}$\times $\num {1}, \num {2}$\times $\num {2}, and \num {4}$\times $\num {4}) with different angular resolutions. A notable performance of our analytical model in \si {\milli \second } for an increase in reflector array demonstrates the advantage of the model to assess large-scale HELIOS configurations as compared to the simulation models. Parameters: $a_{m,n}=b_{m,n}=\SI {10}{\centi \meter }$.}}{62}{table.caption.110}%
+\contentsline {table}{\numberline {4.4}{\ignorespaces Key parameters and their values at transmitter, receiver, and the reflector applicable to the urban street corner scenario at \SI {28}{\giga \hertz } frequency.}}{65}{table.caption.113}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

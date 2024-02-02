@@ -1,0 +1,332 @@
+%%Stand 02.2016
+\documentclass[
+11pt,                % Schriftgroesse 11pt
+a4paper,             % Layout fuer Din A4
+ngerman              % sprache: english bzw german
+twoside,             % Layout fuer beidseitigen Druck
+headinclude,         % Kopfzeile
+headsepline,         % linie unter kopfzeile
+plainheadsepline,    % ..auch im plain style
+BCOR12mm,            % Rand für Bindung
+DIV18,               % DIV-Wert fuer die Erstellung des Satzspiegels
+halfparskip,         % Absatzabstand statt Absatzeinzug
+openany,             % Kapitel auf geraden und ungeraden Seiten beginnen
+bibtotoc,            % Literaturverz. wird ins Inhaltsverzeichnis eingetragen
+pointlessnumbers,    % Kapitelnummern immer ohne Punkt
+tablecaptionabove,   % korrekte Abstaende bei Tabellenueberschriften
+]{scrbook}[2001/07/30]   % scrbook-Version mind. 2.8j von 2001/07/30
+
+%%%sprache 
+%\usepackage[ngerman]{babel} %neue rechtschreibung
+\usepackage{glossaries} %
+%input encoding: bitte zutreffendes einkommentieren
+\usepackage[utf8]{inputenc}  % ansinew fuer Windows
+%\usepackage[applemac]{inputenc} % applemac fuer Mac
+%\usepackage[latin1]{inputenc}    %  latin1 fuer Unix
+%%%verzeichnisse und ihre namen
+%\renewcommand{\bibname}{Literaturverzeichnis} % ueberschrift fuer das literaturverzeichnis
+%\renewcommand{\figurename}{Abbildung}   % name fuer abbildungen
+%\renewcommand{\listfigurename}{Abbildungsverzeichnis} %name fuer abbildungsverzeichnis
+%%
+
+%%%nutzung mehrerer spalten
+\usepackage{multicol}
+
+
+%%Neuberechnung des Satzspiegels mit alten Werten nach aenderung von Zeilenabstand,etc
+\typearea[current]{current}
+%%
+
+%%%zeilenabstand
+\usepackage{setspace}            % Zeilenabstand einstellen koennen
+\onehalfspacing                  % ... und auf 1.5 einstellen
+%%
+
+%%%Kopf und Fusszeile
+\usepackage{scrlayer-scrpage}   
+\renewcommand{\headfont}{\normalfont\sffamily}    % kopfzeile serifenlose schrift
+\renewcommand{\pnumfont}{\normalfont\sffamily}    % ...gleiches fuer die seitennummer
+
+\pagestyle{scrheadings}
+\ihead[]{\headmark}              % Kopfzeile immer oben innen
+\ohead[\pagemark]{\pagemark}     % Seitennummern immer oben aussen
+\ofoot[]{}                       % keine Seitennummer in der Fusszeile
+%%
+
+\usepackage{fontenc}         % T1-kodierte Schriften, korrekte Trennmuster fuer Worte mit Umlauten, und korrektes kopieren aus dem generierten pdf
+
+\usepackage{ae}                  % fuer PDF-Erstellung
+
+%%%Hyperlinks und ihre Farben: 
+\usepackage[colorlinks=true, linkcolor=black, citecolor=black, urlcolor=blue]{hyperref}
+%%
+
+
+%%%Formeln (math)
+%\usepackage[centertags]{amsmath} % AMS-Mathematik, centertags zentriert Nummer bei split
+%\usepackage{amssymb}
+\usepackage{amsmath}
+
+%%%
+%\usepackage{textcomp}
+%%
+
+%%% Bilder drehen koennen
+\usepackage{rotating}
+%%
+
+%%% tikz grafiken plotten
+%zB aus R
+\usepackage{tikz}
+%%
+
+%%%grafiken
+\usepackage{graphics} % grafikfunktionen
+\usepackage{graphicx} % zusaetzliche bildfunktionen
+\usepackage{wrapfig}  % text der grafiken umfließen kann
+\usepackage{float}    % genaue platzierung von floats mit und h,H 
+%%
+
+
+%%%importieren und einbinden von zusaetzlichen dateien
+\usepackage{import}
+%%
+
+%%%SI units
+%%ordentliche formatierung von SI einheiten
+%%zB \SI{10}{\meter\per\second} oder \SI{10}{\mega\byte}
+
+\usepackage[binary-units = true]{siunitx}
+\sisetup{output-decimal-marker = {.}} % dezimalpunkt anstatt komma also 1,5 anstatt 1.5
+
+\DeclareSIUnit{\bitf}{bit} % eigene einheit (ausgeschrieben fuer bit)
+\DeclareSIUnit{\bitfp}{bits} %..fuer bits
+\DeclareSIUnit{\bytef}{Byte} %..fuer byte
+\DeclareSIUnit{\bytefp}{Bytes} %...fuer bytes
+\DeclareSIUnit{\bps}{bps} %...data rates bit per second
+\DeclareSIUnit{\kbps}{kbps} % ...kilobit per second
+\DeclareSIUnit{\Mbps}{Mbps}  %...megabit per second
+\DeclareSIUnit{\Gbps}{Gbps} % ...gigabit per second
+
+\DeclareSIUnit{\kBps}{kBps} % ... kilobyte per second
+\DeclareSIUnit{\MBps}{MBps} % ...megabyte per second
+%%
+
+%%%create protocol headers in latex
+\usepackage{bytefield}
+%%
+
+
+%%%Tabellen
+\usepackage{array} %%array layouting
+\usepackage{multirow} %%tabellenszeilen joinen koennen
+\usepackage{tabularx} %%tabularx besser als tabular
+\usepackage{adjustbox} % adjust siye of table to pagewidth
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}m{#1}} % linksbündig mit Breitenangabe
+\newcolumntype{C}[1]{>{\centering\arraybackslash}m{#1}} % zentriert mit Breitenangabe
+\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}m{#1}} % rechtsbündig mit Breitenangabe
+
+%%%tables ueber mehrere seiten / mit seitenumbruch
+\usepackage{longtable}
+
+%%%rotated tables on whole pages 
+%%%single landscape format pages for use with large tables
+%% \begin{landscape}
+	\usepackage{lscape}
+	
+	%%%rotated tables via \begin{sidewaystable}
+		\usepackage{rotating}
+		%%%rotated floats via \begin{sidewaystable}[H]
+			\usepackage{rotfloat}
+			
+			%%% footnotes for tables via \tablefootnote{}
+			\usepackage{tablefootnote}
+			%%
+			
+			
+			
+			%%%Fussnoten
+			%%\footnote{some text}
+			
+			%%% reusable footnotes
+			%%use the same footnote number for multiple footnotes
+			%via: \footnote{some text \label{note}}
+			%\footref{note}
+			\usepackage{footmisc}
+			
+			
+			%%%einbauen von kompletten pdf seiten
+			\usepackage{pdfpages} 
+			%%via \includepdf[pages={1}]{myfile.pdf}
+			
+			
+			
+			%%%zitieren von literatur
+			\usepackage{cite}              % Sortierte und zusammengefasste Zitatnummern 
+			%%
+			
+			%%%interne referenzen
+			%%zB auf kapitel \Fref{cha:mychapter} welches vorher mit \label{cha:mychapter} versehen wurde
+			%%wobei \Fref{cha:...} kapitel, {sec:...} sektion, {sub:...} untersektion
+			%\usepackage[german, plain]{fancyref} % english/german, plain
+			\usepackage[english, plain]{fancyref} % english/german, plain
+			\usepackage{subfig}
+			
+			%clever references /extend here http://tex.stackexchange.com/questions/100732/how-to-define-a-macro-which-declares-a-fancyref-prefix-how-to-prevent-it-from-o
+			
+			
+			
+			\newcommand*{\fancyrefsublabelprefix}{sub}% subsection prefix (sub:...)
+			\fancyrefaddcaptions{english}{%
+				\providecommand*{\frefsubname}{unterabschnitt}%
+				\providecommand*{\Frefsubname}{Unterabschnitt}%
+			}
+			\frefformat{plain}{\fancyrefsublabelprefix}{\frefsubname\fancyrefdefaultspacing#1}
+			\Frefformat{plain}{\fancyrefsublabelprefix}{\Frefsubname\fancyrefdefaultspacing#1}
+			\frefformat{vario}{\fancyrefsublabelprefix}{%
+				\frefsubname\fancyrefdefaultspacing#1#3%
+			}
+			\Frefformat{vario}{\fancyrefsublabelprefix}{%
+				\Frefsubname\fancyrefdefaultspacing#1#3%
+			}
+			
+			\newcommand*{\fancyrefsubsublabelprefix}{subsub}% subsubsection prefix (subsub:)
+			\fancyrefaddcaptions{english}{%
+				\providecommand*{\frefsubsubname}{unterunterabschnitt}%
+				\providecommand*{\Frefsubsubname}{Unterunterabschnitt}%
+			}
+			\frefformat{plain}{\fancyrefsubsublabelprefix}{\frefsubsubname\fancyrefdefaultspacing#1}
+			\Frefformat{plain}{\fancyrefsubsublabelprefix}{\Frefsubsubname\fancyrefdefaultspacing#1}
+			\frefformat{vario}{\fancyrefsubsublabelprefix}{%
+				\frefsubsubname\fancyrefdefaultspacing#1#3%
+			}
+			\Frefformat{vario}{\fancyrefsubsublabelprefix}{%
+				\Frefsubsubname\fancyrefdefaultspacing#1#3%
+			}
+			
+			\newcommand*{\fancyreflstlabelprefix}{lst}%listings / code snippets mit fancy ref referenzieren
+			\fancyrefaddcaptions{english}{%
+				\providecommand*{\freflstname}{quelltext ausschnitt}%
+				\providecommand*{\Freflstname}{Quelltext Ausschnitt}%
+			}
+			\frefformat{plain}{\fancyreflstlabelprefix}{\freflstname\fancyrefdefaultspacing#1}
+			\Frefformat{plain}{\fancyreflstlabelprefix}{\Freflstname\fancyrefdefaultspacing#1}
+			\frefformat{vario}{\fancyreflstlabelprefix}{%
+				\freflstname\fancyrefdefaultspacing#1#3%
+			}
+			\Frefformat{vario}{\fancyreflstlabelprefix}{%
+				\Freflstname\fancyrefdefaultspacing#1#3%
+			}
+			
+			
+			
+			
+			%%%eintragen von todos in den text
+			%%werden dann rechts angezeigt
+			\usepackage{todonotes} % todonotes
+			%% add note with \todo{...} & \missingfigure
+			
+			%%% aufzaehlungen formatieren
+			%%  [align=left,labelwidth=\widthof{(laengster punkt d. aufzaehlung)},leftmargin=\labelwidth+\labelsep]
+			\usepackage{enumitem} 
+			%%
+			
+			%%% Akronyme / Abkuerzungen
+			%% \ac (wenn vorher benutz dann kurz sonst ausgeschrieben und mit akronym in klammern dahinter
+			%%\acf (full: ausgeschrieben, \acp (plural) \acs (nur kurz)
+			\usepackage[printonlyused]{acronym} %nur wirklich benutzte acronyme auch anzeigen
+			%\usepackage{acro}
+			
+			%%%Diverses
+			\usepackage{booktabs}
+			\usepackage{cancel}
+			\usepackage{mathpazo}
+			\usepackage{cleveref}
+			\usepackage{colortbl}
+			\usepackage{csquotes}
+			\usepackage{helvet}
+			\usepackage{pgfplots}
+			\usepackage{xcolor}
+			%%
+			
+			%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+			%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+			%%%%%der inhalt
+			%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+			%Additional packages
+			%\usepackage{multirow, makecell, caption}
+			\usepackage{graphicx}
+     		 \usepackage{grffile} % Allow underscores in file names
+			\newcommand*\rot{\rotatebox{90}}
+			
+			\usepackage[T1]{fontenc}
+			\usepackage{tikz}
+			\usetikzlibrary{shapes, arrows,calc,positioning}
+			
+			\tikzstyle{intg}=[draw,minimum size=2em,text centered,text width=5.cm]
+			\tikzstyle{sum}=[draw,shape=rectangle,inner sep=3pt,text centered,node distance=2cm]
+		\usepackage{longtable}
+			\usepackage{multirow}
+
+			\usepackage{nicematrix}
+		%	\usepackage{hyperref}
+		%	\usepackage[nameinlink]{cleveref}
+			\crefname{section}{Sec.}{Secs.}
+			\crefname{equation}{Eq.}{Eqs.}
+			\crefname{figure}{Fig.}{Figs.}
+			\crefname{table}{Tab.}{Tabs.}
+			\DeclareMathOperator{\sinc}{sinc}
+			\captionsetup[subfigure]{subrefformat=simple,labelformat=simple}
+			\renewcommand\thesubfigure{(\alph{subfigure})}
+			
+			\usepackage{pdfpages}
+			\usepackage{graphicx}
+			\usepackage{subcaption}
+			\usepackage{subfig}
+			%\usepackage{natbib}
+		  \begin{document}
+				\pagenumbering{Roman}
+				\include{tex/deck}            % Deckblatt
+				\cleardoubleemptypage    
+				\includepdf[pages=-]{Eidesstattliche_Versicherung.pdf}
+				\cleardoubleplainpage
+				\include{tex/abstract}
+				\cleardoubleemptypage     
+				\setcounter{tocdepth}{2}
+				\setcounter{secnumdepth}{2}
+				
+				\begin{spacing}{1.0}          % Verzeichnisse werden mit einzeiligem Abstand gesetz
+					%\listoftodos % todo liste anzeigen
+					
+					%verzeichnisse drucken
+					\tableofcontents             % Inhaltsverzeichnis
+				\end{spacing}
+				
+				%%hauptteil
+				\cleardoubleplainpage         % Das erste Kapitel des Hauptteils auf einer rechten Seite beginnen
+				\mainmatter                   % die eigentliche Arbeit beginnen
+				
+				%\include{tex/example} % remobe this part at some point (add '%' at row beginning)!
+				
+				\include{tex/Introduction}    % einführung
+			%	\include{tex/background}
+				\include{tex/Section1} 
+				\include{tex/IRSmodelanalysis}        % 
+			%	\include{tex/section3}
+				\include{tex/methodology}    % ...
+				 \include{tex/results_and_discussion}        % ...
+			%	\include{tex/fazit}      % fazit
+				
+				%%anhang und verzeichnisse
+			%	\appendix
+				\begin{spacing}{1.0}          % Verzeichnisse werden mit einzeiligem Abstand gesetzt
+					\include{tex/acronyms}      % Abkuerzungsverzeichnis
+				%	\include{tex/figures_dataset}        % Abkuerzungsverzeichnis
+					
+					\bibliographystyle{IEEEtran}  %% IEEE transaction style fuer das literaturverzeichnis 
+					\bibliography{bibliography/literature} %%benutze die bibliotheksfile bibliography/literature.bib
+					\listoffigures                % Abbildungsverzeichnis
+					\listoftables                 % Tabellenverzeichnis
+				\end{spacing}
+				
+			\end{document}
